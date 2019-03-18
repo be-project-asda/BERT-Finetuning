@@ -1,0 +1,138 @@
+(pytorch-env) sarmishta@sarmishta-pc:~/Desktop/BE Project/combined$ python NYTimes.py --img=../a-PyTorch-Tutorial-to-Image-Captioning/blacktrain.jpeg --captioning_model=../a-PyTorch-Tutorial-to-Image-Captioning/pretrained_model/BEST_checkpoint_coco_5_cap_per_img_5_min_word_freq.pth.tar --word_map=../a-PyTorch-Tutorial-to-Image-Captioning/pretrained_model/WORDMAP_coco_5_cap_per_img_5_min_word_freq.json --similarity_model=../Untitled\ Folder/saved_models/pytorch_finetuned_BERT.bin 
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'models.Encoder' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'torch.nn.modules.conv.Conv2d' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'torch.nn.modules.batchnorm.BatchNorm2d' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'models.DecoderWithAttention' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'models.Attention' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'torch.nn.modules.linear.Linear' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'torch.nn.modules.sparse.Embedding' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'torch.nn.modules.rnn.LSTMCell' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+NYTimes.py:83: DeprecationWarning: `imread` is deprecated!
+`imread` is deprecated in SciPy 1.0.0, and will be removed in 1.2.0.
+Use ``imageio.imread`` instead.
+  img = imread(image_path)
+NYTimes.py:87: DeprecationWarning: `imresize` is deprecated!
+`imresize` is deprecated in SciPy 1.0.0, and will be removed in 1.2.0.
+Use ``skimage.transform.resize`` instead.
+  img = imresize(img, (256, 256))
+Sentences:
+<start> a large train traveling down train tracks <end>
+<start> a large train traveling down a train track <end>
+<start> a train is traveling down a train track <end>
+<start> a black train traveling down a train track <end>
+<start> a train is traveling down a track train track <end>
+<start> a train is traveling down a track a train track <end>
+<start> a train is traveling down a track down train tracks <end>
+<start> a train is traveling down a track down a track <end>
+
+
+
+03/18/2019 08:53:57 - INFO - pytorch_pretrained_bert.tokenization -   loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at ~/.pytorch_pretrained_bert/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+03/18/2019 08:53:58 - INFO - pytorch_pretrained_bert.modeling -   loading archive file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased.tar.gz from cache at ~/.pytorch_pretrained_bert/9c41111e2de84547a463fd39217199738d1e3deb72d4fec4399e6e241983c6f0.ae3cef932725ca7a30cdcb93fc6e09150a55e2a130ec7af63975a16c153ae2ba
+03/18/2019 08:53:58 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file ~/.pytorch_pretrained_bert/9c41111e2de84547a463fd39217199738d1e3deb72d4fec4399e6e241983c6f0.ae3cef932725ca7a30cdcb93fc6e09150a55e2a130ec7af63975a16c153ae2ba to temp dir /tmp/tmpcqdwbsp5
+03/18/2019 08:54:01 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+03/18/2019 08:54:04 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForNextSentencePrediction: ['cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias']
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+Traceback (most recent call last):
+  File "NYTimes.py", line 380, in <module>
+    bert_model.to(device)
+  File "/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 379, in to
+    return self._apply(convert)
+  File "/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 185, in _apply
+    module._apply(fn)
+  File "/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 185, in _apply
+    module._apply(fn)
+  File "/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 185, in _apply
+    module._apply(fn)
+  [Previous line repeated 2 more times]
+  File "/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 191, in _apply
+    param.data = fn(param.data)
+  File "/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/nn/modules/module.py", line 377, in convert
+    return t.to(device, dtype if t.is_floating_point() else None, non_blocking)
+RuntimeError: CUDA error: out of memory
+(pytorch-env) sarmishta@sarmishta-pc:~/Desktop/BE Project/combined$ python NYTimes.py --img=../a-PyTorch-Tutorial-to-Image-Captioning/blacktrain.jpeg --captioning_model=../a-PyTorch-Tutorial-to-Image-Captioning/pretrained_model/BEST_checkpoint_coco_5_cap_per_img_5_min_word_freq.pth.tar --word_map=../a-PyTorch-Tutorial-to-Image-Captioning/pretrained_model/WORDMAP_coco_5_cap_per_img_5_min_word_freq.json --similarity_model=../Untitled\ Folder/saved_models/pytorch_finetuned_BERT.bin 
+Better speed can be achieved with apex installed from https://www.github.com/nvidia/apex.
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'models.Encoder' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'torch.nn.modules.conv.Conv2d' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'torch.nn.modules.batchnorm.BatchNorm2d' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'models.DecoderWithAttention' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'models.Attention' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'torch.nn.modules.linear.Linear' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'torch.nn.modules.sparse.Embedding' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+/home/sarmishta/pytorch-env/lib/python3.7/site-packages/torch/serialization.py:425: SourceChangeWarning: source code of class 'torch.nn.modules.rnn.LSTMCell' has changed. you can retrieve the original source code by accessing the object's source attribute or set `torch.nn.Module.dump_patches = True` and use the patch tool to revert the changes.
+  warnings.warn(msg, SourceChangeWarning)
+NYTimes.py:83: DeprecationWarning: `imread` is deprecated!
+`imread` is deprecated in SciPy 1.0.0, and will be removed in 1.2.0.
+Use ``imageio.imread`` instead.
+  img = imread(image_path)
+NYTimes.py:87: DeprecationWarning: `imresize` is deprecated!
+`imresize` is deprecated in SciPy 1.0.0, and will be removed in 1.2.0.
+Use ``skimage.transform.resize`` instead.
+  img = imresize(img, (256, 256))
+Sentences:
+<start> a large train traveling down train tracks <end>
+<start> a large train traveling down a train track <end>
+<start> a train is traveling down a train track <end>
+<start> a black train traveling down a train track <end>
+<start> a train is traveling down a track train track <end>
+<start> a train is traveling down a track a train track <end>
+<start> a train is traveling down a track down train tracks <end>
+<start> a train is traveling down a track down a track <end>
+
+
+
+03/18/2019 08:54:37 - INFO - pytorch_pretrained_bert.tokenization -   loading vocabulary file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased-vocab.txt from cache at ~/.pytorch_pretrained_bert/26bc1ad6c0ac742e9b52263248f6d0f00068293b33709fae12320c0e35ccfbbb.542ce4285a40d23a559526243235df47c5f75c197f04f37d1a0c124c32c9a084
+03/18/2019 08:54:38 - INFO - pytorch_pretrained_bert.modeling -   loading archive file https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-uncased.tar.gz from cache at ~/.pytorch_pretrained_bert/9c41111e2de84547a463fd39217199738d1e3deb72d4fec4399e6e241983c6f0.ae3cef932725ca7a30cdcb93fc6e09150a55e2a130ec7af63975a16c153ae2ba
+03/18/2019 08:54:38 - INFO - pytorch_pretrained_bert.modeling -   extracting archive file ~/.pytorch_pretrained_bert/9c41111e2de84547a463fd39217199738d1e3deb72d4fec4399e6e241983c6f0.ae3cef932725ca7a30cdcb93fc6e09150a55e2a130ec7af63975a16c153ae2ba to temp dir /tmp/tmp3nzer_x0
+03/18/2019 08:54:41 - INFO - pytorch_pretrained_bert.modeling -   Model config {
+  "attention_probs_dropout_prob": 0.1,
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "max_position_embeddings": 512,
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "type_vocab_size": 2,
+  "vocab_size": 30522
+}
+
+03/18/2019 08:54:44 - INFO - pytorch_pretrained_bert.modeling -   Weights from pretrained model not used in BertForNextSentencePrediction: ['cls.predictions.bias', 'cls.predictions.transform.dense.weight', 'cls.predictions.transform.dense.bias', 'cls.predictions.decoder.weight', 'cls.predictions.transform.LayerNorm.weight', 'cls.predictions.transform.LayerNorm.bias']
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+03/18/2019 08:54:44 - INFO - bert -   ***** Comparing Sentence Pairs *****
+03/18/2019 08:54:44 - INFO - bert -     Num pairs = 28
+03/18/2019 08:54:44 - INFO - bert -     Batch size = 1
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9522302746772766
+ 

@@ -1,0 +1,3793 @@
+ARGS:
+ Namespace(_lambda=0.5, beam_size=8, captioning_model='../a-PyTorch-Tutorial-to-Image-Captioning/pretrained_model/BEST_checkpoint_coco_5_cap_per_img_5_min_word_freq.pth.tar', img_path='/home/sarmishta/Desktop/BE Project/combined/test', similarity_model='../Untitled Folder/saved_models/pytorch_finetuned_BERT.bin', smooth=True, word_map='../a-PyTorch-Tutorial-to-Image-Captioning/pretrained_model/
+
+WORDMAP_coco_5_cap_per_img_5_min_word_freq.json')
+
+
+Sentences:
+<start> a large kite flying in a blue sky <end>
+<start> a red kite is flying in a blue sky <end>
+<start> a big kite that is flying in the sky <end>
+<start> a red and white kite flying in a blue sky <end>
+<start> a red kite is flying in a clear blue sky <end>
+<start> a red and white kite is flying in the sky <end>
+<start> a kite flying in a blue sky in a blue sky <end>
+<start> a red and white kite is flying in the blue sky <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9297589063644409
+
+
+Sentences:
+<start> a large group of motorcycles are parked outside a building <end>
+<start> a street with a lot of motorcycles parked in front <end>
+<start> a group of motorcycles parked in front a a building <end>
+<start> a number of motorcycles parked in front of a building <end>
+<start> a large group of motorcycles are parked in a row <end>
+<start> a large group of motorcycles are parked outside of a building <end>
+<start> a street with a lot of motorcycles parked in front of it <end>
+<start> a large group of motorcycles are parked in front of a building <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.929216206073761
+
+
+Sentences:
+<start> a young man holding a neon yellow frisbee <end>
+<start> a male in a black shirt is playing frisbee <end>
+<start> a close up of a man holding a yellow frisbee <end>
+<start> a young man holding a yellow frisbee in a dark room <end>
+<start> a male in a black shirt is playing a game of frisbee <end>
+<start> a male in a black shirt is playing a game a frisbee <end>
+<start> a male in a black shirt is playing a game of a frisbee <end>
+<start> a close up of a man holding a frisbee in a dark room <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8354342579841614
+
+
+Sentences:
+<start> a man riding a snowboard on a snow covered slope <end>
+<start> a man riding a snowboard on top a a ramp <end>
+<start> a person is on skis on a rail on a hill <end>
+<start> a man riding a snowboard on top of a snow covered slope <end>
+<start> a man riding skis on a rail on a snow covered slope <end>
+<start> a person is on skis on a rail on a hill on snow <end>
+<start> a person is on skis on a rail on a hill on a hill <end>
+<start> a person is on skis on a rail on a hill on a sunny day <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8932274580001831
+
+
+Sentences:
+<start> a couple of birds standing in a field <end>
+<start> a flock of birds standing in a field <end>
+<start> a couple of birds standing in a field of grass <end>
+<start> a couple of birds standing on a dry grass field <end>
+<start> a group of birds standing on a dry grass field <end>
+<start> a flock of birds standing on a dry grass field <end>
+<start> a group of birds standing in a field of grass <end>
+<start> a couple of birds standing in a field of a field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.953153669834137
+
+
+Sentences:
+<start> three hot dogs on a plate on a table <end>
+<start> two hot dogs on a plate on a table <end>
+<start> three hot dogs on a plate with hot dogs <end>
+<start> a close up of two hot dogs on a plate <end>
+<start> a group of hot dogs on a plate on a table <end>
+<start> three hot dogs on a plate with hot dogs on a plate <end>
+<start> two hot dogs on a plate with a hot dog on a bun <end>
+<start> three hot dogs on a plate with a hot dog on a bun <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9145588278770447
+
+
+Sentences:
+<start> a couple of people that are holding a wine glass <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a passenger train that is pulling into a station <end>
+<start> a passenger train is pulling into the train station <end>
+<start> a passenger train is pulling into a train station <end>
+<start> a passenger train that is pulling into a train station <end>
+<start> a passenger train that is sitting on a train track <end>
+<start> a black and white picture of a train on train tracks <end>
+<start> a black and white picture of a train on a train track <end>
+<start> a couple of train tracks with a train on a train track <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8272514343261719
+
+
+Sentences:
+<start> a person standing next to a brown suitcase <end>
+<start> a young man standing next to a suitcase <end>
+<start> a man is standing next to a suitcase <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.9548447728157043
+
+
+Sentences:
+<start> a couple of bikes that are on a street <end>
+<start> a row of bicycles parked next to a building <end>
+<start> a row of bicycles parked next to a wall <end>
+<start> a row of bicycles parked next to each other <end>
+<start> a group of bikes parked next to each other <end>
+<start> a bunch of bicycles are parked next to a wall <end>
+<start> a couple of bikes that are parked next to each other <end>
+<start> a group of bikes parked next to a wall of a building <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9231177568435669
+
+
+Sentences:
+<start> a picture of a toilet in a small bathroom <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a man laying on a beach on a sandy beach <end>
+<start> a man is laying on a beach on a beach <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9892127513885498
+
+
+Sentences:
+<start> a man is riding a white a a motorcycle <end>
+<start> a man is riding a motorcycle on a road <end>
+<start> a man is riding a white a a motorcycle a motorcycle <end>
+<start> a man is riding a white a a motorcycle a a a motorcycle <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=6), HTML(value='')))
+
+Similarity Score: 0.9400753974914551
+
+
+Sentences:
+<start> a brown bear is standing in a field <end>
+<start> a grizzly bear is standing in a field <end>
+<start> a big brown bear standing in a field <end>
+<start> a close up of a bear in a field <end>
+<start> a brown bear standing in a field in a field <end>
+<start> a close up of a bear in a grassy field <end>
+<start> a brown bear standing in a field in front of a field <end>
+<start> a brown bear standing in a field in front a a tree <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9169249534606934
+
+
+Sentences:
+<start> a large bus is driving down the street <end>
+<start> a large bus is driving down a street <end>
+<start> a yellow bus is parked on a street <end>
+<start> a passenger bus is parked on a city street <end>
+<start> a yellow bus is parked on the side of the road <end>
+<start> a passenger bus is parked on the side of the road <end>
+<start> a yellow bus is parked on the side of a road <end>
+<start> a passenger bus is parked on the side of a road <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8543416857719421
+
+
+Sentences:
+<start> a baseball player is holding a baseball bat <end>
+<start> a group of men on a field playing baseball <end>
+<start> a baseball player holding a bat on a field <end>
+<start> a man holding a bat on a baseball field <end>
+<start> a professional baseball player holding a bat on a field <end>
+<start> a baseball player holding a baseball bat on a field <end>
+<start> a group of men on a field playing a baseball game <end>
+<start> a group of men on a field playing a game of baseball <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.910886287689209
+
+
+Sentences:
+<start> a young man walking down a city street <end>
+<start> a young man walking down a city a street <end>
+<start> a young man walking down a sidewalk a street <end>
+<start> a young man walking down a city a a street <end>
+<start> a young man walking down a city a street a street sign <end>
+<start> a young man walking down a street a a a street sign <end>
+<start> a young man walking down a street a a a street sign a street sign a street sign and street signs <end>
+<start> a young man walking down a street a a a street sign a street sign a street sign and a street sign <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9573297500610352
+
+
+Sentences:
+<start> a row of motorcycles parked on a beach <end>
+<start> a group of motorcycles parked in a desert <end>
+<start> a row of motorcycles parked on a sandy beach <end>
+<start> a couple of red motorcycles parked in a desert <end>
+<start> two red and black motorcycles parked in a desert <end>
+<start> a row of red motorcycles parked in a desert <end>
+<start> a couple of motorcycles parked next to each other <end>
+<start> a couple of motorcycles parked next to each other on a beach <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8693521618843079
+
+
+Sentences:
+<start> a cat standing on top of a blue refrigerator <end>
+<start> a small cat sitting on top of a refrigerator <end>
+<start> a grey cat sitting on top of a refrigerator <end>
+<start> a black cat sitting on top of a refrigerator <end>
+<start> a gray cat sitting on top of a refrigerator <end>
+<start> a cat standing on top of a blue a refrigerator <end>
+<start> a black cat sitting on top of a refrigerator a refrigerator a sink and a window <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=21), HTML(value='')))
+
+Similarity Score: 0.9606938362121582
+
+
+Sentences:
+<start> a big boat that is in the water <end>
+<start> a small boat in a large body of water <end>
+<start> a bunch of boats that are in the water <end>
+<start> a large boat is in a large body of water <end>
+<start> a big boat that is in a body of water <end>
+<start> a large boat with a large boat in the water <end>
+<start> a bunch of boats that are in a body of water <end>
+<start> a large boat with a large boat in a body of water <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9265812635421753
+
+
+Sentences:
+<start> a wooden cart filled with lots of luggage <end>
+<start> a wooden cart filled with a pile of luggage <end>
+<start> a cart filled with a cart full of luggage <end>
+<start> a wooden cart filled with a cart of luggage <end>
+<start> a wooden cart filled with a cart filled with luggage <end>
+<start> a wooden cart filled with a cart of a cart of luggage <end>
+<start> a wooden cart filled with a cart of a cart with luggage <end>
+<start> a wooden cart filled with a cart of a cart filled with luggage <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9722381830215454
+
+
+Sentences:
+<start> a large fire hydrant in a grassy field <end>
+<start> a red fire hydrant in a grassy field <end>
+<start> a red and yellow fire hydrant in a field <end>
+<start> a red and yellow fire hydrant in a grassy field <end>
+<start> a fire hydrant in a field in front of a house <end>
+<start> a red and yellow fire hydrant in a field in a garden <end>
+<start> a red fire hydrant with a red fire hydrant in a field <end>
+<start> a red and yellow fire hydrant in a field in front of a house <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.935285210609436
+
+
+Sentences:
+<start> a public transit bus on a city street <end>
+<start> a transit bus parked on the side of a street <end>
+<start> a large bus is parked on the side of a street <end>
+<start> a city bus is parked on the side of a street <end>
+<start> a large bus is parked on the side of the street <end>
+<start> a transit bus parked on a street on the side of a street <end>
+<start> a bus parked on the side of a street on the side of the road <end>
+<start> a bus parked on the side of a street on the side of the street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9291850328445435
+
+
+Sentences:
+<start> a couple of people standing in the snow <end>
+<start> a man and a child standing in the snow <end>
+<start> a couple of people standing on a snow covered slope <end>
+<start> a man standing on top of a snow covered slope <end>
+<start> two people are standing in the snow on a snowboard <end>
+<start> a man and a child standing on a snow covered slope <end>
+<start> a man and a child standing in a snow covered field <end>
+<start> a couple of people standing on top of a snow covered slope <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8158248066902161
+
+
+Sentences:
+<start> a white plate of noodles and a fork <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a plant that is growing on the ground <end>
+<start> a plant that is growing in a garden <end>
+<start> a plant that is growing on a plant <end>
+<start> a plant with a bunch of vegetables in it <end>
+<start> a plant with a bunch of vegetables on it <end>
+<start> a plant with a bunch of vegetables in a garden <end>
+<start> a close up of a plant of a plant in a garden <end>
+<start> a close up of a plant of a plant with a plant <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.842947781085968
+
+
+Sentences:
+<start> a plane is flying in a cloudy sky <end>
+<start> a plane is flying through a cloudy sky <end>
+<start> a propeller plane flying through a cloudy sky <end>
+<start> an airplane is flying in a cloudy sky <end>
+<start> a propeller airplane flying through a cloudy sky <end>
+<start> a black and white photo of a plane flying in a cloudy sky <end>
+<start> a black and white photo of a small airplane flying in the sky <end>
+<start> a black and white photo of a small airplane flying in a cloudy sky <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.917660653591156
+
+
+Sentences:
+<start> a man riding skis down a snow covered slope <end>
+<start> a person in a jacket skiing down a hill <end>
+<start> a person in a snow suit skiing down a hill <end>
+<start> a person riding a pair of skis down a hill <end>
+<start> a person in a snow suit skiing a snow a hill <end>
+<start> a person riding a pair of skis down a snowy slope <end>
+<start> a person in a snow suit skiing a snow covered hill <end>
+<start> a person riding a pair of skis down a snow covered slope <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9273033738136292
+
+
+Sentences:
+<start> a couple of zebras are grazing in a field <end>
+<start> a couple of zebras are standing in a field <end>
+<start> a herd of zebra grazing in a field of grass <end>
+<start> a group of zebras grazing in a field of grass <end>
+<start> a group of zebras grazing in a field in a field <end>
+<start> a herd of zebra grazing in a field in a field <end>
+<start> a couple of zebras are standing in a field of grass <end>
+<start> a couple of zebras are standing in a field of a field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9501712918281555
+
+
+Sentences:
+<start> a couple of people holding a snow board <end>
+<start> a man and a woman holding a snow board <end>
+<start> a man and a woman holding a snow a snowboard <end>
+<start> a couple of people holding a snowboard a snow a hill <end>
+<start> a man and a woman holding snowboards a snow a hill <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=10), HTML(value='')))
+
+Similarity Score: 0.9305132031440735
+
+
+Sentences:
+<start> a person on a surfboard riding a wave <end>
+<start> a person riding a surf board on a wave <end>
+<start> a man is riding a surfboard on a wave <end>
+<start> a man is riding a wave on a surfboard <end>
+<start> a man riding a wave on top of a surfboard <end>
+<start> a man on a surfboard riding a wave on a beach <end>
+<start> a man on a surfboard riding a wave on a surfboard <end>
+<start> a person on a surfboard riding a wave a a wave <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9589214324951172
+
+
+Sentences:
+<start> a couple of people sitting at a table with laptops <end>
+<start> several people are sitting at a table with a laptop <end>
+<start> a bunch of people sitting at a table with a laptop <end>
+<start> a couple of people sitting at a table with a laptop <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=6), HTML(value='')))
+
+Similarity Score: 0.9776597619056702
+
+
+Sentences:
+<start> a dump truck is driving down the street <end>
+<start> a dump truck is driving down a street <end>
+<start> a blue semi truck driving down a street <end>
+<start> a large semi truck driving down a street <end>
+<start> a blue semi truck parked on a street <end>
+<start> a blue semi truck driving down a road <end>
+<start> a blue semi truck parked on the side of the road <end>
+<start> a blue semi truck parked on the side of a road <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8690400719642639
+
+
+Sentences:
+<start> a public transit bus on a city street <end>
+<start> a public transit bus parked on a street <end>
+<start> a blue bus is parked on a street <end>
+<start> a white bus is parked on a street <end>
+<start> a large bus is parked on a street <end>
+<start> a city bus is parked on a street <end>
+<start> a large bus is parked on the side of the road <end>
+<start> a blue bus is parked on the side of the road <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8509112596511841
+
+
+Sentences:
+<start> a couple of sheep standing in a fenced a field <end>
+<start> a sheep in a pen standing in the a field <end>
+<start> a couple of sheep standing in a fenced in area <end>
+<start> a sheep standing in a field next to a wire fence <end>
+<start> a couple of sheep standing in a fenced a a field <end>
+<start> a sheep standing next to a wire fence in a field <end>
+<start> a couple of sheep standing in a fenced a a a field <end>
+<start> a couple of sheep standing in a fenced in area in a field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9539514780044556
+
+
+Sentences:
+<start> a dog sitting on a bed on top of a bed <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a person on skis jumping in the air <end>
+<start> a man flying through the air while riding skis <end>
+<start> a skier in a blue jacket is jumping a hill <end>
+<start> a snow skier is in the air on a snowy hill <end>
+<start> a skier in a blue jacket is jumping in the air <end>
+<start> a man flying through the air while riding a pair of skis <end>
+<start> a skier in a blue jacket is jumping a hill in the snow <end>
+<start> a skier in a blue jacket is jumping a hill in the air <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8347795605659485
+
+
+Sentences:
+<start> a man is sleeping on a park bench <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a skateboarder is doing a trick on a ramp <end>
+<start> a man is doing a trick on a skateboard <end>
+<start> a person on a skate board doing a trick <end>
+<start> a man on a skateboard is doing a trick on a ramp <end>
+<start> a man on a skate board doing a trick on a ramp <end>
+<start> a man on a skate board doing a trick on a a ramp <end>
+<start> a man is doing a trick on a skateboard a a a ramp <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=21), HTML(value='')))
+
+Similarity Score: 0.9578699469566345
+
+
+Sentences:
+<start> a group of people standing on a tennis court <end>
+<start> a group of young people standing around a tennis court <end>
+<start> a large group of people standing on a tennis court <end>
+<start> a group of young children standing next to a tennis court <end>
+<start> a group of young people standing next to a tennis court <end>
+<start> a group of young men standing next to a tennis court <end>
+<start> a group of young men standing next to a tennis net <end>
+<start> a family of a group of young people standing on a tennis court <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9483624696731567
+
+
+Sentences:
+<start> a yellow sign that is on a pole <end>
+<start> a yellow street sign sitting on a sidewalk <end>
+<start> a yellow street sign sitting on a sidewalk on the street <end>
+<start> a yellow fire hydrant sitting on the side of a street <end>
+<start> a yellow street sign sitting on the side of a street <end>
+<start> a yellow traffic light sitting on the side of a street <end>
+<start> a yellow traffic light sitting on a sidewalk on a city street <end>
+<start> a yellow street sign sitting on a sidewalk on the side of a street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8784541487693787
+
+
+Sentences:
+<start> a black cat laying on a laptop computer <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a man is playing a wii video game <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a couple of giraffes are in a field <end>
+<start> a couple of giraffes are standing in a field <end>
+<start> two giraffes standing in a field in a zoo <end>
+<start> two giraffes standing in a field of a zoo <end>
+<start> a couple of giraffe standing next to a forest <end>
+<start> a couple of giraffe standing next to each other <end>
+<start> two giraffes standing in a field of grass in a zoo <end>
+<start> a couple of giraffe standing in a field next to a tree <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9118490219116211
+
+
+Sentences:
+<start> a group of men standing around a luggage cart <end>
+<start> a group of men standing around a pile of luggage <end>
+<start> a group of men standing around a luggage a cart <end>
+<start> a man with a luggage cart with a luggage cart with luggage <end>
+<start> a group of men standing next to a car with a suitcase <end>
+<start> a group of men standing next to a car with a luggage cart <end>
+<start> a group of men standing next to a car with a suitcase with luggage <end>
+<start> a group of men standing next to a car with a suitcase with luggage on the ground <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9447740912437439
+
+
+Sentences:
+<start> a person in a black jacket on a ski slope <end>
+<start> a person in a black jacket standing on skis in the snow <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.971091628074646
+
+
+Sentences:
+<start> a man holding a tennis racquet on a tennis court <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a person on a bike on a street <end>
+<start> a person on a bike on a city street <end>
+<start> a young man walking down a city a city street <end>
+<start> a young man walking down a city a a street <end>
+<start> a young man walking down a city a city a street <end>
+<start> a person on a bike on a street a street a building a street a building and a building <end>
+<start> a young man walking down a city a a street a street a building a street a building a street and a building <end>
+<start> a young man walking down a city a a street a street a building a street a building a street and a street light <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.7864897847175598
+
+
+Sentences:
+<start> a man sitting in a bathroom next to a toilet <end>
+<start> a man sitting in a bathroom next a toilet in a bathroom <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.989753007888794
+
+
+Sentences:
+<start> a cat is looking at a computer screen <end>
+<start> a cat is looking at a laptop computer <end>
+<start> a cat that is sitting next to a laptop <end>
+<start> a cat that is sitting on a couch next to a laptop <end>
+<start> a gray and white cat is sitting on a couch next to a laptop <end>
+<start> a gray and white cat is a a laptop a laptop and a laptop <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=15), HTML(value='')))
+
+Similarity Score: 0.9039103984832764
+
+
+Sentences:
+<start> a couple of zebras are standing in a field <end>
+<start> two zebras standing in a field in a field <end>
+<start> two zebras standing in a field of a field <end>
+<start> a herd of zebra standing in a dry grass field <end>
+<start> a herd of zebra standing on a dry grass field <end>
+<start> two zebras standing in a field of tall dry grass <end>
+<start> a pair of zebras in a field in a field <end>
+<start> a pair of zebras in a field in a field of grass <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9372928738594055
+
+
+Sentences:
+<start> a green bowl filled with green apples <end>
+<start> a green bowl filled with green green apples <end>
+<start> a green bowl filled with a green apple <end>
+<start> a green bowl filled with green green green apples <end>
+<start> a bowl filled with a green apple a green apple <end>
+<start> a bowl filled with a green apple with green apples <end>
+<start> a bowl filled with a green apple with a green apple <end>
+<start> a large bowl of a green apple with a green apple <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9739474654197693
+
+
+Sentences:
+<start> a large sheep standing on top a a rock <end>
+<start> a large sheep standing on top a rock on a hill <end>
+<start> a large sheep standing on top a a rock on a hill <end>
+<start> a large sheep standing on top a a rock on a sunny day <end>
+<start> a large sheep standing on top a a a rock on a sunny day <end>
+<start> a large sheep standing on top a rock a a rock on a hill <end>
+<start> a large sheep standing on top a rock a a rock on a sunny day <end>
+<start> a large sheep standing on top a a a rock on a hill a hill <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9820647835731506
+
+
+Sentences:
+<start> a red stop sign on a pole on a street <end>
+<start> a red stop sign sitting on the side of a road <end>
+<start> a red stop sign sitting on the side of a street <end>
+<start> a stop sign that is on a pole on a street <end>
+<start> a stop sign on a pole on a street on a street <end>
+<start> a stop sign on the corner of a street on a street corner <end>
+<start> a stop sign on the corner of a street on a sunny day <end>
+<start> a red stop sign sitting on the side of a street on a sidewalk <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9004112482070923
+
+
+Sentences:
+<start> a big red truck parked on a street <end>
+<start> a red truck parked in a parking lot <end>
+<start> a large red truck parked on a street <end>
+<start> a red truck parked on the side of the road <end>
+<start> a close up of a red truck on a street <end>
+<start> a red truck parked on the side of a road <end>
+<start> a close up of a red truck parked on a street <end>
+<start> a close up of a red truck parked on the side of a road <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9489811658859253
+
+
+Sentences:
+<start> a man is doing a trick on a skateboard <end>
+<start> a man flying through the air on a skateboard <end>
+<start> a person on a skate board doing a trick <end>
+<start> a man flying through the air while riding a skateboard <end>
+<start> a man is doing a skateboard trick on a rail <end>
+<start> a person on a skateboard doing a trick on a rail <end>
+<start> a person on a skateboard doing a trick on a ramp <end>
+<start> a person on a skateboard doing a trick on the a ramp <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8766387104988098
+
+
+Sentences:
+<start> a large giraffe is standing in a field <end>
+<start> a lone giraffe standing in a field in a field <end>
+<start> a tall giraffe standing in a field in a field <end>
+<start> a single giraffe standing in a field in a field <end>
+<start> a large giraffe standing in a field in a field <end>
+<start> a lone giraffe standing in a field a in a field <end>
+<start> a lone giraffe standing in a field a a a field <end>
+<start> a lone giraffe standing in a field a a a field a tree and a tree <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9611806273460388
+
+
+Sentences:
+<start> a bunch of people are sitting in a room <end>
+<start> a bunch of people sitting in a living room <end>
+<start> a bunch of people are sitting in a living room <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.9577946662902832
+
+
+Sentences:
+<start> a number of animals in a field near trees <end>
+<start> a number of animals in a field near a tree <end>
+<start> a large herd of animals grazing in a grassy field <end>
+<start> a large field with a bunch of animals in it <end>
+<start> a field with a bunch of animals in a field <end>
+<start> a large field with a bunch of animals in a field <end>
+<start> a number of animals in a field with trees in the background <end>
+<start> a number of animals in a field near trees a a fence and trees <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9077258110046387
+
+
+Sentences:
+<start> two men on a motorcycle on a city street <end>
+<start> two men riding a motorcycle on a city street <end>
+<start> two people sitting on a motorcycle on a city street <end>
+<start> two men are sitting on a motorcycle on the street <end>
+<start> a couple of men on a motorcycle on a street <end>
+<start> two men sitting on a motorcycle on a city street <end>
+<start> two men are sitting on a motorcycle on a street <end>
+<start> a couple of men sitting on a motorcycle on a street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9597020745277405
+
+
+Sentences:
+<start> a glazed donut is on a plate on a table <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a large air plane on a run way <end>
+<start> a large commercial airplane sitting on a runway <end>
+<start> a large commercial airplane parked on a runway <end>
+<start> a large white and red plane on a runway <end>
+<start> a large jetliner sitting on top of a runway <end>
+<start> a large white and red jet on a runway <end>
+<start> a large passenger jet sitting on top of a runway <end>
+<start> a large passenger jet sitting on top of an airport runway <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.880803644657135
+
+
+Sentences:
+<start> a large double deck bus on a city street <end>
+<start> a red double decker bus parked on a street <end>
+<start> a big red double decker bus driving down a street <end>
+<start> a large red double decker bus driving down a street <end>
+<start> a big red double decker bus parked on the street <end>
+<start> a big red double decker bus parked on a street <end>
+<start> a big red double decker bus is parked on the street <end>
+<start> a big red double decker bus is parked on a street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.93433678150177
+
+
+Sentences:
+<start> a couple of zebras are standing in a field <end>
+<start> a couple of zebras standing next to a tree <end>
+<start> a couple of zebra standing on a dirt field <end>
+<start> a herd of zebra standing on a dirt field <end>
+<start> a couple of zebra standing next to each other <end>
+<start> a couple of zebras are standing in a dirt field <end>
+<start> a herd of zebra standing next to each other on a dirt field <end>
+<start> a herd of zebra standing on a dirt field next to a purple wall <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9014957547187805
+
+
+Sentences:
+<start> a gray and white cat sleeping on a sneaker <end>
+<start> a grey and white cat sleeping on a sneaker <end>
+<start> a cat is sleeping on a shoe on the floor <end>
+<start> a grey and white cat laying on a sneaker on the floor <end>
+<start> a grey and white cat sleeping on a sneaker on the floor <end>
+<start> a grey and white cat sleeping on a sneaker on the ground <end>
+<start> a grey and white cat laying on a sneaker on a white floor <end>
+<start> a grey and white cat laying on a sneaker on a a floor <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9530214071273804
+
+
+Sentences:
+<start> a girl is holding an umbrella in the rain <end>
+<start> a little girl holding an umbrella in a driveway <end>
+<start> a girl in a red coat holding an umbrella <end>
+<start> a girl in a red coat holding a blue umbrella <end>
+<start> a girl is holding a blue umbrella in the rain <end>
+<start> a little girl holding a blue umbrella in a driveway <end>
+<start> a young girl holding a blue umbrella in a driveway <end>
+<start> a girl in a red coat holding an umbrella in a driveway <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9428620934486389
+
+
+Sentences:
+<start> a group of men standing next to each other <end>
+<start> a man and two women standing in a room <end>
+<start> two men standing next to each other next to luggage <end>
+<start> a group of three men standing next to each other <end>
+<start> a man and two women standing next to a suitcase <end>
+<start> two men and a woman standing next to each other <end>
+<start> a man and two women standing next to each other <end>
+<start> a man and two women standing in a room next to a luggage <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8450082540512085
+
+
+Sentences:
+<start> a man standing on a tennis court holding a racquet <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> two people playing a game with a remote controller <end>
+<start> two people sitting on a couch playing video games <end>
+<start> a man and a woman playing a video game <end>
+<start> a couple of people that are playing a video game <end>
+<start> two people sitting on a couch playing a video game <end>
+<start> two people playing a game with a remote a game controller <end>
+<start> a man and a woman playing a game with a nintendo wii controller <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=21), HTML(value='')))
+
+Similarity Score: 0.8457720875740051
+
+
+Sentences:
+<start> a skateboarder is doing a trick in a park <end>
+<start> a skateboarder is doing a trick on a ramp <end>
+<start> a man is doing a trick on a skateboard <end>
+<start> a person on a skate board doing a trick <end>
+<start> a person on a skateboard doing a trick on a ramp <end>
+<start> a man on a skateboard doing a trick on a ramp <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=15), HTML(value='')))
+
+Similarity Score: 0.9335559606552124
+
+
+Sentences:
+<start> a small bird sitting on a tree branch <end>
+<start> a bird is sitting on a branch of a tree <end>
+<start> a close up of a small bird on a branch <end>
+<start> a grey bird sitting on a branch a a tree branch <end>
+<start> a close up of a bird on a branch a tree branch <end>
+<start> a close up of a bird sitting on a branch a tree branch <end>
+<start> a close up of a bird sitting on a branch a a tree branch <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=21), HTML(value='')))
+
+Similarity Score: 0.939348042011261
+
+
+Sentences:
+<start> a man riding a wave on top a surfboard <end>
+<start> a man is riding a wave on a surfboard <end>
+<start> a man on a surfboard riding a wave a wave <end>
+<start> a man riding a wave on top a a surfboard <end>
+<start> a male surfer is riding a wave on a surfboard <end>
+<start> a man riding a wave on top a a wave a surfboard <end>
+<start> a man riding a wave on top a a wave a wave <end>
+<start> a man riding a wave on top a a wave a surfboard a wave <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9544753432273865
+
+
+Sentences:
+<start> a person is riding a wave on a surfboard <end>
+<start> a person is riding a surfboard on a wave <end>
+<start> a person surfing a wave a a a a wave <end>
+<start> a man on a surfboard riding a wave a a a wave <end>
+<start> a man on a surf board riding a wave a a wave a a wave <end>
+<start> a man on a surfboard riding a wave a a a wave a wave a a wave <end>
+<start> a man on a surfboard riding a wave a a a a wave a a a a a wave <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=21), HTML(value='')))
+
+Similarity Score: 0.9371758699417114
+
+
+Sentences:
+<start> a flock of swans swimming in a lake <end>
+<start> a group of swans swimming in a lake <end>
+<start> a couple of swans swimming in a lake <end>
+<start> a large white swan swimming in a lake <end>
+<start> a number of swans in a body of water <end>
+<start> a large group of swans swimming in a lake <end>
+<start> a couple of white swans swimming in a lake <end>
+<start> a large group of ducks swimming in a lake <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9235660433769226
+
+
+Sentences:
+<start> a baby elephant is standing in the water <end>
+<start> a small elephant standing in a pool of water <end>
+<start> an elephant is standing in a pool of water <end>
+<start> a baby elephant standing in a pool of water <end>
+<start> an elephant is standing in the water in a zoo <end>
+<start> a baby elephant standing in a pool in a zoo <end>
+<start> a baby elephant is standing in the water in the zoo <end>
+<start> a baby elephant is standing in the water in a zoo <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9454559087753296
+
+
+Sentences:
+<start> a large plane is sitting on a runway <end>
+<start> a large plane is sitting on the runway <end>
+<start> an airplane is on the runway on the runway <end>
+<start> a large jetliner sitting on top of a runway <end>
+<start> a large jetliner sitting on top of an airport runway <end>
+<start> an airplane is on the runway on a cloudy day <end>
+<start> a view of a plane on a runway on a runway <end>
+<start> a view of a plane on a runway a runway a plane and a plane <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8439299464225769
+
+
+Sentences:
+<start> a woman is standing on a snowy hill <end>
+<start> a woman is standing in the snow with skis <end>
+<start> a man in a coat standing on a snow covered slope <end>
+<start> a man in a coat standing in the snow with skis <end>
+<start> a man in a coat standing on a snow a snow covered slope <end>
+<start> a man in a coat standing on a snow covered slope in skis <end>
+<start> a man in a coat standing on a snow a snow covered ski slope <end>
+<start> a man in a coat standing on a snow covered slope in a ski suit <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.7711097002029419
+
+
+Sentences:
+<start> a couple of zebra standing next to each other <end>
+<start> a group of zebra standing next to each other <end>
+<start> a couple of zebra standing next to a metal fence <end>
+<start> a herd of zebra standing next to a metal fence <end>
+<start> a group of zebra standing next to a metal fence <end>
+<start> a couple of zebras that are standing in the dirt <end>
+<start> a couple of zebras that are standing in a pin <end>
+<start> a zebra standing next to a fence a a fence a fence and a fence <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.896360456943512
+
+
+Sentences:
+<start> a group of young children playing a game of baseball <end>
+<start> a baseball player holding a baseball bat on a field <end>
+<start> a young boy swinging a bat at a baseball game <end>
+<start> a group of young children playing baseball on a field <end>
+<start> a young boy swinging a bat at a baseball a game <end>
+<start> a young boy swinging a bat at a baseball a baseball game <end>
+<start> a group of young children playing a game of a baseball game <end>
+<start> a young boy swinging a bat at a baseball a a game <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8799108862876892
+
+
+Sentences:
+<start> two men are standing on a city street <end>
+<start> a man and woman are standing on a sidewalk <end>
+<start> a couple of people that are standing on the street <end>
+<start> a couple of people that are standing on the sidewalk <end>
+<start> a couple of people that are standing on a sidewalk <end>
+<start> a couple of men standing on a street on a sidewalk <end>
+<start> a group of people standing on a street on a sidewalk <end>
+<start> a group of men standing on a sidewalk on a sidewalk <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.874485969543457
+
+
+Sentences:
+<start> a woman standing next to a stove in a kitchen <end>
+<start> a man standing in front of a stove in a kitchen <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.907691478729248
+
+
+Sentences:
+<start> a person riding skis on a snowy surface <end>
+<start> a person riding skis on a snowy slope <end>
+<start> a man is skiing down a snowy hill <end>
+<start> a man riding skis down a snow covered slope <end>
+<start> a snow skier in a black jacket and some snow <end>
+<start> a snow skier in a black jacket and some trees <end>
+<start> a snow skier in a black jacket and a red jacket <end>
+<start> a snow skier in a red jacket is skiing down a hill <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.858187198638916
+
+
+Sentences:
+<start> two men in a kitchen preparing food in a kitchen <end>
+<start> a group of men standing in a kitchen preparing food <end>
+<start> a group of men standing in a kitchen in a kitchen <end>
+<start> two men in a kitchen preparing a meal in a kitchen <end>
+<start> a man cooking in a restaurant kitchen in a restaurant kitchen <end>
+<start> a couple of men standing in a kitchen preparing a meal <end>
+<start> a group of men standing in a kitchen preparing a meal <end>
+<start> a man cooking in a restaurant kitchen in a restaurant a restaurant <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9348577857017517
+
+
+Sentences:
+<start> a newly married couple cutting a wedding cake <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a group of people standing next to a large truck <end>
+<start> a man is standing in a parking lot next to a truck <end>
+<start> a couple of men standing next to a truck in a parking lot <end>
+<start> a group of people standing next to a truck in a parking lot <end>
+<start> a man in a white shirt standing in a parking lot next to a truck <end>
+<start> a man is standing in a parking lot next to a truck a truck and a truck <end>
+<start> a man is standing in a parking lot next to a truck a a truck a a a truck and a a a truck <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=21), HTML(value='')))
+
+Similarity Score: 0.8929167985916138
+
+
+Sentences:
+<start> a large white bus parked in a parking lot <end>
+<start> a passenger bus that is parked in a lot <end>
+<start> a passenger bus that is parked in a parking lot <end>
+<start> a large white bus parked in front of a building <end>
+<start> a passenger bus that is parked in front of a building <end>
+<start> a bus parked in a parking lot in front of a building <end>
+<start> a passenger bus that is parked in a lot in a lot <end>
+<start> a passenger bus that is parked in a lot in front of a building <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9211117029190063
+
+
+Sentences:
+<start> a cat standing on top of a car <end>
+<start> a gray cat standing on top of a car <end>
+<start> a grey cat standing on top of a car <end>
+<start> a cat is sitting on the hood of a car <end>
+<start> a grey cat standing on a car on a street <end>
+<start> a cat is sitting on a car on a car <end>
+<start> a gray cat standing on a car on a car <end>
+<start> a cat is sitting on a car on the a car <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9543970227241516
+
+
+Sentences:
+<start> a couple of surf boards on a beach <end>
+<start> a bunch of surf boards on a beach <end>
+<start> a sandy beach with a surfboard on the beach <end>
+<start> a sandy beach with a surfboard on a beach <end>
+<start> a sandy beach with a surf board on a beach <end>
+<start> a couple of surfboards on the beach on a beach <end>
+<start> a group of surfboards sitting on a beach on the beach <end>
+<start> a group of surfboards sitting on a beach on a beach <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9401472806930542
+
+
+Sentences:
+<start> a man is riding a wave on a surfboard <end>
+<start> a man riding a wave on a surfboard a wave a wave <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9662585258483887
+
+
+Sentences:
+<start> a small cat sitting on a wooden bench <end>
+<start> a cat is sitting on a wooden bench <end>
+<start> a cat is looking at a cat in a mirror <end>
+<start> a brown and white cat sitting on a wooden bench <end>
+<start> a orange and white cat sitting on a wooden bench <end>
+<start> a cat is looking at a cat in a cage <end>
+<start> a cat standing on a wooden bench looking at a cat <end>
+<start> a cat standing on a wooden bench looking a a a fence <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8647457361221313
+
+
+Sentences:
+<start> the fire hydrant is on the side of the street <end>
+<start> a red and yellow fire hydrant sitting on a sidewalk <end>
+<start> a red and yellow fire hydrant sitting in the grass <end>
+<start> a close up of a fire hydrant on a sidewalk <end>
+<start> the fire hydrant is on the side of the road <end>
+<start> a yellow fire hydrant sitting on the side of a road <end>
+<start> a yellow fire hydrant sitting on the side of the road <end>
+<start> a red and yellow fire hydrant sitting in the middle of a sidewalk <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.895555853843689
+
+
+Sentences:
+<start> a phone that is sitting on a table <end>
+<start> a picture of a remote control on a table <end>
+<start> a picture of a remote control sitting on a table <end>
+<start> a close up of a cell phone on a table <end>
+<start> a phone that is sitting on top of a table <end>
+<start> a picture of a remote control sitting on top of a table <end>
+<start> a close up of a cell phone on top of a table <end>
+<start> a close up of a cell phone on top of a a table <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.760755181312561
+
+
+Sentences:
+<start> a person jumping a snow board in the air <end>
+<start> a person on a snowboard jumping a snow ramp <end>
+<start> a man flying through the air while riding a snowboard <end>
+<start> a man is jumping a snowboard on a snowy hill <end>
+<start> a man is jumping a snowboard on a snowy a hill <end>
+<start> a person on a snowboard jumping a snow ramp a hill <end>
+<start> a person jumping a snow board in a a a a jump <end>
+<start> a person on a snowboard jumping a snow ramp a hill a person on a snowboard <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8980537056922913
+
+
+Sentences:
+<start> a silver and blue train on train tracks <end>
+<start> a blue and white train on train tracks <end>
+<start> a white and blue train on the train tracks <end>
+<start> a white and blue train on a train track <end>
+<start> a blue and white train on the train tracks <end>
+<start> a silver and blue train on a train track <end>
+<start> a blue and white train on a train track <end>
+<start> a silver and blue train on a track and a person on a train <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9441400766372681
+
+
+Sentences:
+<start> a couple of zebras are standing in a field <end>
+<start> a couple of zebras standing next to each other <end>
+<start> a couple of zebra standing next to each other <end>
+<start> a herd of zebras standing next to each other <end>
+<start> a group of zebras standing next to each other <end>
+<start> two zebra standing next to each other next to each other <end>
+<start> two zebras standing next to each other next to each other <end>
+<start> two zebra standing next to each other next to a wall <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9293857216835022
+
+
+Sentences:
+<start> a person on a surfboard riding a wave <end>
+<start> a man is riding a wave on a surfboard <end>
+<start> a person is riding a wave on a surfboard <end>
+<start> a man on a surf board riding a wave <end>
+<start> a surfer is riding a large wave on a surfboard <end>
+<start> a man on a surfboard riding a wave on a surfboard <end>
+<start> a man riding a wave on a surfboard a wave a wave a wave in the background <end>
+<start> a man riding a wave on a surfboard a wave a wave a wave in a cloudy sky <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9379776120185852
+
+
+Sentences:
+<start> a baseball player is swinging a baseball bat <end>
+<start> a baseball player swinging a baseball bat at a ball <end>
+<start> a professional baseball player swinging a bat at a ball <end>
+<start> a baseball player is swinging a bat at a baseball game <end>
+<start> a baseball player swinging a bat at a baseball a a game <end>
+<start> a baseball player swinging a baseball bat at a baseball a baseball game <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=15), HTML(value='')))
+
+Similarity Score: 0.978622555732727
+
+
+Sentences:
+<start> a man sitting on a motorcycle on the street <end>
+<start> two people sitting on a bench on a city street <end>
+<start> a man sitting on a motorcycle on a city street <end>
+<start> a couple of men sitting on the side of a street <end>
+<start> a man sitting on a motorcycle on the street on a sidewalk <end>
+<start> a man sitting on a motorcycle on the street on a street <end>
+<start> two people sitting on a bench on a street a on a street <end>
+<start> a couple of men sitting on the side of a street on a motorcycle <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.7662516832351685
+
+
+Sentences:
+<start> a man flying a a snowboard in the air <end>
+<start> a man flying through the air while riding a snowboard <end>
+<start> a man flying through a a air on a snowboard <end>
+<start> a man flying through a air on a snow a snowboard <end>
+<start> a man flying through a a air on a snow board <end>
+<start> a man flying through a a air on a snow a snowboard <end>
+<start> a man flying through a a air on a snow board a snow board <end>
+<start> a man flying through a a air on a snow board a a jump <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.970702052116394
+
+
+Sentences:
+<start> a couple of birds are standing on a rock <end>
+<start> a bunch of birds that are standing on a rock <end>
+<start> a bunch of birds that are standing in the water <end>
+<start> a bird is standing on a rock on a river <end>
+<start> a bunch of birds that are standing in a river <end>
+<start> a bunch of birds that are standing on some rocks <end>
+<start> a bird is standing on a rock on a lake <end>
+<start> a large flock of birds standing on top of a lake <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8696864247322083
+
+
+Sentences:
+<start> a group of zebras grazing in a field <end>
+<start> a couple of zebras are standing in a field <end>
+<start> a couple of zebra standing on a grass covered field <end>
+<start> two zebra standing next to each other in a field <end>
+<start> two zebra standing next to each other on a field <end>
+<start> a group of zebras grazing in a field of grass <end>
+<start> a couple of zebra standing on top of a grass covered field <end>
+<start> a herd of zebra standing on top of a grass covered field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9177388548851013
+
+
+Sentences:
+<start> a boy cutting a cake with a knife <end>
+<start> a man cutting a cake with a knife <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9421722292900085
+
+
+Sentences:
+<start> a person riding a surf board on a wave <end>
+<start> a man is riding a wave on a surfboard <end>
+<start> a young man riding a wave on a surfboard <end>
+<start> a person on a surfboard riding a wave a wave <end>
+<start> a man on a surfboard riding a wave on a surfboard <end>
+<start> a person on a surfboard riding a wave on a surfboard <end>
+<start> a person on a surfboard riding a wave a wave a wave <end>
+<start> a person on a surfboard riding a wave a wave a a wave <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9525955319404602
+
+
+Sentences:
+<start> a man on a field holding a frisbee <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a little girl is holding an umbrella <end>
+<start> a young girl holding a blue umbrella <end>
+<start> a little girl is holding a blue umbrella <end>
+<start> a little girl is holding an a umbrella <end>
+<start> a little girl is holding an a blue umbrella <end>
+<start> a little girl is holding an a a blue umbrella <end>
+<start> a girl is holding a blue umbrella a a blue umbrella <end>
+<start> a girl is holding a blue umbrella a a blue and a blue umbrella <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9753562808036804
+
+
+Sentences:
+<start> a cat is sitting on the hood of a car <end>
+<start> a tiger cat sitting on the hood of a car <end>
+<start> a tiger cat sitting on a car on a car <end>
+<start> a cat is sitting on a car on a car <end>
+<start> a tabby cat is sitting on the hood of a car <end>
+<start> a cat laying on top of a car on a street <end>
+<start> a tiger cat sitting on a car on the a car <end>
+<start> a cat laying on top of a car on the a street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9343343377113342
+
+
+Sentences:
+<start> a horse pulling a carriage in a parade <end>
+<start> a horse pulling a carriage down a street <end>
+<start> a man riding a horse drawn carriage down a street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.9208131432533264
+
+
+Sentences:
+<start> a couple of people walking in a snowy field <end>
+<start> a person standing in a snowy field in the snow <end>
+<start> a person standing in a snowy field of sheep in a snowy field <end>
+<start> a person standing in a snowy field of sheep in a field of snow <end>
+<start> a group of people standing in a snowy field in a snowy field a a snowy field <end>
+<start> a group of people standing in a snowy field in a snowy field a a snowy a field <end>
+<start> a group of people standing in a snowy field in a snowy field a a snowy a field a fire hydrant <end>
+<start> a group of people standing in a snowy field in a snowy field a a snowy a field a fire a a black and a fire hydrant <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9343163371086121
+
+
+Sentences:
+<start> two zebras are grazing in a grassy field <end>
+<start> a couple of zebras are grazing in a field <end>
+<start> two zebras grazing in a field in a zoo <end>
+<start> a couple of zebra standing on a grass covered field <end>
+<start> a couple of zebra standing on a lush green field <end>
+<start> a couple of zebra standing on top of a grass covered field <end>
+<start> a zebra and a zebra grazing in a field in a zoo <end>
+<start> a zebra and a zebra grazing in a field in front of a rock wall <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9220392107963562
+
+
+Sentences:
+<start> two people are riding horses on a beach <end>
+<start> a couple of people riding horses on a beach <end>
+<start> a man and two horses riding on a beach <end>
+<start> a group of people riding horses on a beach <end>
+<start> a man and two horses riding horses on a beach <end>
+<start> a man and a woman riding horses on a beach <end>
+<start> a man and two horses riding a horse on a beach <end>
+<start> a man and a woman riding a horse on a beach <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.954475462436676
+
+
+Sentences:
+<start> a fluffy cat is sleeping on a bed <end>
+<start> a fluffy cat is sleeping on a blanket <end>
+<start> a fluffy cat is sleeping on a blanket on a couch <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.9837458729743958
+
+
+Sentences:
+<start> a man is pouring wine into a glass <end>
+<start> a man pouring wine into a wine glass <end>
+<start> a young man is pouring a drink into a glass <end>
+<start> a man pouring a drink a a glass of wine <end>
+<start> a young man is pouring a drink into a wine glass <end>
+<start> a man pouring a drink a a a glass of wine <end>
+<start> a man pouring a drink a a a glass of a wine glass <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=21), HTML(value='')))
+
+Similarity Score: 0.9582646489143372
+
+
+Sentences:
+<start> a woman standing next to a bunch of bananas <end>
+<start> a woman sitting in front of a bunch of bananas <end>
+<start> a woman sitting in front of a table of bananas <end>
+<start> a beautiful woman standing next to a bunch of bananas <end>
+<start> a woman holding a bunch of bananas in front of a building <end>
+<start> a woman holding a bunch of bananas in front of a store <end>
+<start> a woman sitting in front of a table of a bunch of bananas <end>
+<start> a beautiful woman standing next to a bunch of bananas a a bunch of bananas <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9703405499458313
+
+
+Sentences:
+<start> a close up of a rusty fire hydrant <end>
+<start> a rusted fire hydrant sitting on a sidewalk <end>
+<start> a close up of a rusty hydrant on a sidewalk <end>
+<start> a black and white fire hydrant sitting on a sidewalk <end>
+<start> a close up of a fire hydrant on a sidewalk <end>
+<start> a close up of a rusty hydrant on a street <end>
+<start> a dirty fire hydrant with a a a a a a chain on it <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=21), HTML(value='')))
+
+Similarity Score: 0.8450711369514465
+
+
+Sentences:
+<start> a girl is sitting on a horse on a path <end>
+<start> a girl is sitting on a horse on a sunny day <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9722580909729004
+
+
+Sentences:
+<start> a small airplane flying in a cloudy sky <end>
+<start> a small airplane flying in a gray sky <end>
+<start> a blue and red plane flying in the sky <end>
+<start> a small red and white airplane flying in the sky <end>
+<start> a small red and white plane flying in the sky <end>
+<start> a small yellow and blue plane flying in the sky <end>
+<start> a small yellow and blue plane flying in the air <end>
+<start> a small red and white plane flying in the air <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8855196833610535
+
+
+Sentences:
+<start> a couple of zebras are standing in a field <end>
+<start> a couple of zebra standing next to each other <end>
+<start> a group of zebra standing next to each other <end>
+<start> a couple of zebras that are standing in a field <end>
+<start> a couple of zebras that are eating a grass field <end>
+<start> a close up of a couple of zebras in a field <end>
+<start> a close up of a couple of zebra standing in a field <end>
+<start> a close up of a couple of zebra standing next to each other <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9178767800331116
+
+
+Sentences:
+<start> a woman standing next to a horse in a forest <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a public transit bus on a city street <end>
+<start> a large purple bus on a city street <end>
+<start> a large purple bus is on a street <end>
+<start> a purple bus is parked on a street <end>
+<start> a blue bus is parked on a street <end>
+<start> a large purple bus parked on a street <end>
+<start> a large purple bus is parked on the street <end>
+<start> a large purple bus is parked on a street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8784578442573547
+
+
+Sentences:
+<start> a man is riding a wave on a surfboard <end>
+<start> a man on a surfboard riding a wave a wave <end>
+<start> a man in a wetsuit riding a wave on a surfboard <end>
+<start> a man on a surfboard riding a wave a a wave <end>
+<start> a man in a wet suit riding a wave on a surfboard <end>
+<start> a surfer is riding a wave on a surfboard a a wave <end>
+<start> a man on a surfboard riding a wave a a wave a wave <end>
+<start> a surfer is riding a wave on a surfboard a a wave a wave <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9440812468528748
+
+
+Sentences:
+<start> a large group of swans swimming in a lake <end>
+<start> a large group of birds swimming in a lake <end>
+<start> a large group of ducks swimming in a lake <end>
+<start> a lake with a bunch of ducks swimming in it <end>
+<start> a lake with a group of ducks swimming in it <end>
+<start> a lake with a bunch of ducks in a lake <end>
+<start> a lake with a group of ducks in a lake <end>
+<start> a lake with a bunch of ducks in it a lake and a lake <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9380286335945129
+
+
+Sentences:
+<start> two brown teddy bears sitting next to each other <end>
+<start> a group of teddy bears sitting on a couch <end>
+<start> a group of stuffed animals sitting on a couch <end>
+<start> a couple of stuffed bears are sitting on a couch <end>
+<start> a couple of teddy bears sitting next to each other <end>
+<start> a group of stuffed teddy bears sitting on a couch <end>
+<start> a couple of brown teddy bears sitting next to each other <end>
+<start> a group of stuffed animals sitting on top of a couch <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8731414079666138
+
+
+Sentences:
+<start> a person riding a horse drawn carriage <end>
+<start> a man riding a a horse drawn carriage <end>
+<start> a man is riding on a horse drawn carriage <end>
+<start> a man riding a horse drawn carriage on a track <end>
+<start> a man riding a horse drawn carriage on a track a race track <end>
+<start> a man riding a horse drawn carriage on a track a a race a track <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=15), HTML(value='')))
+
+Similarity Score: 0.9473467469215393
+
+
+Sentences:
+<start> a little boy is walking in a garden <end>
+<start> a small child is walking in a field <end>
+<start> a small child is walking in the grass <end>
+<start> a little boy that is standing in a field <end>
+<start> a little boy that is standing in the grass <end>
+<start> a small child is walking in the grass in a garden <end>
+<start> a little boy is walking in the grass in a garden <end>
+<start> a little boy is standing in a field in a garden <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9215143918991089
+
+
+Sentences:
+<start> a bus that is sitting in the street <end>
+<start> a large yellow bus is on a street <end>
+<start> a large yellow bus is parked on the street <end>
+<start> a bus that is sitting in a parking lot <end>
+<start> a large yellow bus is parked on a street <end>
+<start> a yellow and red bus is parked on a street <end>
+<start> a yellow and red bus is parked in a lot <end>
+<start> a yellow and red bus is parked in a parking lot <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8709114193916321
+
+
+Sentences:
+<start> a group of people playing a game of soccer <end>
+<start> a group of people playing soccer in a field <end>
+<start> a group of people playing soccer on a field <end>
+<start> two women in a soccer game a a soccer game <end>
+<start> two women in a soccer game a a soccer a game <end>
+<start> a woman in a blue shirt a soccer game in a soccer game <end>
+<start> a woman in a blue shirt a soccer game in a soccer a soccer game <end>
+<start> a man in a blue shirt a a soccer game a soccer ball a man a woman a man and a woman <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.7980151176452637
+
+
+Sentences:
+<start> a person on a surfboard in a body of water <end>
+<start> a person on a surfboard in the water on a surfboard <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9601784944534302
+
+
+Sentences:
+<start> a little girl is playing a video game <end>
+<start> a small girl is playing a video game <end>
+<start> a girl in a pink dress playing a video game <end>
+<start> a girl standing in a living room playing a video game <end>
+<start> a little girl playing a video game in a living room <end>
+<start> a girl standing in a living room playing a game a video game <end>
+<start> a girl standing in a living room playing a game with a nintendo wii controller <end>
+<start> a girl standing in a living room playing a game a game with a remote controller <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8873223662376404
+
+
+Sentences:
+<start> someone holding a smart phone in their hand <end>
+<start> someone holding a cell phone in their hand <end>
+<start> someone holding a cell phone in a cell phone <end>
+<start> a close up of a person holding a cell phone <end>
+<start> a persons hand holding a cell phone in their hand <end>
+<start> a person is holding a cell phone in their hand <end>
+<start> a persons hand holding a cell phone in a hand <end>
+<start> a person is holding a cell phone in a cell phone <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.934221625328064
+
+
+Sentences:
+<start> a truck that is parked in the snow <end>
+<start> a truck that is parked in a lot <end>
+<start> a pick up truck parked in a snowy driveway <end>
+<start> a truck that is parked in a lot of snow <end>
+<start> a truck driving down a street with a snow covered truck <end>
+<start> a truck driving down a street with a truck in the background <end>
+<start> a truck driving down a street with a truck in the back <end>
+<start> a red truck driving down a street a a truck a truck and a truck <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.7743250131607056
+
+
+Sentences:
+<start> a person standing in the woods in the woods <end>
+<start> a man playing frisbee in the woods in the woods <end>
+<start> a man playing a game of frisbee in the woods <end>
+<start> a man playing a game of frisbee in a forest <end>
+<start> a man throwing a frisbee in the woods in the woods <end>
+<start> a man playing a game of a frisbee in a forest <end>
+<start> a man playing a game of frisbee in a forest a forest <end>
+<start> a man playing a game of a frisbee a a a a tree <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8873625993728638
+
+
+Sentences:
+<start> a person on a surfboard riding a wave <end>
+<start> two people riding a wave on a surfboard <end>
+<start> a person riding a wave on a surfboard <end>
+<start> a couple of people riding surfboards on a wave <end>
+<start> a man riding a wave on top of a surfboard <end>
+<start> a couple of people riding a wave on a surfboard <end>
+<start> a group of people riding a wave on a surfboard <end>
+<start> a man riding a wave on a surfboard on a wave <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9305636286735535
+
+
+Sentences:
+<start> a couple of people on skis on a hill <end>
+<start> three skiers posing for a picture on a mountain <end>
+<start> a couple of people on skis on a snowy hill <end>
+<start> a group of skiers standing on a snow covered slope <end>
+<start> a couple of people on skis standing on a snowy hill <end>
+<start> a group of people standing on top of a snow covered slope <end>
+<start> a group of people on skis standing on a snow covered slope <end>
+<start> a group of people on skis standing on top of a snow covered slope <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9334365725517273
+
+
+Sentences:
+<start> a white plate with a pizza on a table <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a person riding skis on a snowy slope <end>
+<start> a person riding skis on a snowy surface <end>
+<start> a person riding skis down a snowy slope <end>
+<start> a person is skiing down a snowy hill <end>
+<start> a man riding skis down a snow covered slope <end>
+<start> a person riding skis down a snow covered slope <end>
+<start> a snow skier in a black jacket is a a hill <end>
+<start> a snow skier in a black jacket is skiing down a hill <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8997865319252014
+
+
+Sentences:
+<start> a man riding on a surfboard on a body of water <end>
+<start> a man riding on a paddle board on a body of water <end>
+<start> a man riding on a paddle board in a body of water <end>
+<start> a person on a surfboard in a body of a body of water <end>
+<start> a man standing on a surfboard in a body of a body of water <end>
+<start> a man standing on a surfboard in a body of a body of a water <end>
+<start> a black and white photo of a man on a surfboard in a body of water <end>
+<start> a man standing on a surfboard in a body of a body of a body of water <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9420427083969116
+
+
+Sentences:
+<start> a group of people riding horses on a beach <end>
+<start> a picture of a group of people riding horses on a beach <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9823785424232483
+
+
+Sentences:
+<start> a pitcher throwing a pitch to a batter <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a person on a motorcycle on a dirt road <end>
+<start> a person on a motorcycle riding a a dirt road <end>
+<start> a man riding on a motorcycle on a dirt road <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.9623144268989563
+
+
+Sentences:
+<start> a black and white photo of a person riding on a horse <end>
+<start> a black and white photo of a man on a a horse <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9549281001091003
+
+
+Sentences:
+<start> a couple of cows laying in a grassy field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a shirtless man riding a bike down a street <end>
+<start> a man is riding a bike on a city street <end>
+<start> a man is riding a bike on a city a street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.9211806654930115
+
+
+Sentences:
+<start> a person riding a surf board on a wave <end>
+<start> a person riding a surf board a a wave <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9739550948143005
+
+
+Sentences:
+<start> a large group of elephants standing in a dirt field <end>
+<start> a close up of a group of elephants in a field <end>
+<start> a large elephant with a baby elephant walking in the background <end>
+<start> a close up of an elephant walking in a dirt field <end>
+<start> a close up of a group of elephants in dirt area <end>
+<start> a close up of a group of elephants in a dirt field <end>
+<start> a large elephant with a baby elephant walking a dirt road in the background <end>
+<start> a large elephant with a baby elephant walking a dirt road in a background <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8146352767944336
+
+
+Sentences:
+<start> a couple of computer screens on a desk <end>
+<start> a couple of computer monitors sitting on a desk <end>
+<start> a desktop computer sitting on top of a desk <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.885275661945343
+
+
+Sentences:
+<start> a large herd of cattle laying on a grass covered field <end>
+<start> a large herd of cattle laying on a field of grass <end>
+<start> a large group of cows laying on a field of grass <end>
+<start> a large group of animals laying on top of a field <end>
+<start> a herd of cattle laying on top of a grass covered field <end>
+<start> a large group of animals laying on top of a field of grass <end>
+<start> a group of cows laying in a field of a field of grass <end>
+<start> a group of cows laying in a field of a field of a field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9464179277420044
+
+
+Sentences:
+<start> the polar bear is playing with a green ball <end>
+<start> a polar bear is playing with a green ball <end>
+<start> a small white polar bear playing in the water <end>
+<start> a close up of a polar bear playing in the water <end>
+<start> a close up of a polar bear playing in a pool <end>
+<start> a close up of a polar bear playing with a green ball <end>
+<start> a close up of a polar bear playing a game of frisbee <end>
+<start> a close up of a polar bear playing in a pool of water <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8357028961181641
+
+
+Sentences:
+<start> a bright red fire hydrant on a sidewalk <end>
+<start> a bright red fire hydrant on the side of a street <end>
+<start> a large red fire hydrant on the side of a street <end>
+<start> a bright red fire hydrant on the side of the street <end>
+<start> a close up of a red fire hydrant on a city street <end>
+<start> a close up of a fire hydrant on the side of a street <end>
+<start> a close up of a red fire hydrant on the side of a street <end>
+<start> a close up of a red fire hydrant on the side of the street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9639052748680115
+
+
+Sentences:
+<start> a bunch of ripe bananas sitting on a table <end>
+<start> a large bunch of ripe bananas sitting on a table <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9823734760284424
+
+
+Sentences:
+<start> a large brown bear walking a a dirt road <end>
+<start> a large brown bear standing next to a brown bear <end>
+<start> a couple of brown bears walking across a dirt field <end>
+<start> a couple of brown bears standing on a dirt field <end>
+<start> a couple of brown bears standing next to each other <end>
+<start> a couple of brown bears standing next to a brown bear <end>
+<start> a close up of two bears walking a a dirt road <end>
+<start> a couple of brown bears standing on top of a dirt field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8496569991111755
+
+
+Sentences:
+<start> a large green sign that reads <unk> <unk> <end>
+<start> a large green street sign on a green street <end>
+<start> a large green street sign that reads <unk> street <end>
+<start> a large green street sign that reads <unk> <unk> <end>
+<start> a large green street sign that reads <unk> a street <end>
+<start> a large green street sign that reads <unk> a <unk> <end>
+<start> a large green street sign that reads <unk> and <unk> <unk> <end>
+<start> a large green street sign that reads <unk> and <unk> <unk> <unk> <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9378852844238281
+
+
+Sentences:
+<start> a person walking down a sidewalk with a suitcase <end>
+<start> a woman is walking down a platform with a suitcase <end>
+<start> a person with a suitcase walking down a train platform <end>
+<start> a person with a suitcase walking down a train station <end>
+<start> a woman is walking down a sidewalk with a suitcase <end>
+<start> a young woman is walking down a platform with a suitcase <end>
+<start> a person with a suitcase walking down a train platform a train platform <end>
+<start> a person with a suitcase walking down a train platform a train station <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9201641082763672
+
+
+Sentences:
+<start> two cats sleeping on a pink blanket <end>
+<start> two cats laying on a pink blanket on a pink blanket <end>
+<start> two cats sleeping on a pink blanket on a pink blanket <end>
+<start> a cat laying on a pink blanket on a pink blanket <end>
+<start> a cat is sleeping on a pink blanket on a pink blanket <end>
+<start> a couple of cats laying on a pink blanket on a pink blanket <end>
+<start> a pair of cats laying on a pink blanket on a pink blanket <end>
+<start> a couple of cats laying on top of a pink blanket on a pink blanket <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9665096998214722
+
+
+Sentences:
+<start> a couple of sheep are standing in a pen <end>
+<start> a herd of sheep standing next to a fence <end>
+<start> a couple of sheep are standing next to a fence <end>
+<start> a sheep and a sheep are standing in a pen <end>
+<start> a sheep and a lamb are standing in a pen <end>
+<start> a sheep and a sheep are standing in a cage <end>
+<start> a couple of sheep are standing next to each other <end>
+<start> a herd of sheep standing next to each other in a cage <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8877282738685608
+
+
+Sentences:
+<start> a group of people playing tennis on a tennis court <end>
+<start> a group of people on a tennis court playing tennis <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9842599034309387
+
+
+Sentences:
+<start> a motorcycle is parked in a grassy field <end>
+<start> a black motorcycle is parked in a grassy field <end>
+<start> a black motorcycle is parked on a grassy field <end>
+<start> a motor bike parked in a field in a field <end>
+<start> a motorcycle parked in a field in front of a tree <end>
+<start> a motor bike parked in a field in front of some trees <end>
+<start> a motor bike parked in a field in front of a tree <end>
+<start> a motor bike parked in a field in front of some a tree <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9470365643501282
+
+
+Sentences:
+<start> a person riding skis on a snowy slope <end>
+<start> a person is skiing down a snowy hill <end>
+<start> a person riding skis on a snowy surface <end>
+<start> a person skiing down a snow covered mountain <end>
+<start> a man riding skis down a snow covered slope <end>
+<start> a man on skis is skiing on a mountain <end>
+<start> a man on skis is skiing on a snowy slope <end>
+<start> a man on skis is skiing on a snowy hill <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9535674452781677
+
+
+Sentences:
+<start> a person on a surfboard riding a wave <end>
+<start> a man is riding a wave on a surfboard <end>
+<start> a surfer is riding a wave on a surfboard <end>
+<start> a young man riding a wave on a surfboard <end>
+<start> a man on a surfboard riding a wave a wave <end>
+<start> a male surfer is riding a wave on a surfboard <end>
+<start> a man on a surfboard riding a wave a a wave <end>
+<start> a man on a surfboard riding a wave on a surfboard <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9449300169944763
+
+
+Sentences:
+<start> several sheep standing on a hill on a hill <end>
+<start> a large herd of animals standing on a hill <end>
+<start> a bunch of animals standing on a hill on a hill <end>
+<start> several sheep standing on a grassy hill on a sunny day <end>
+<start> a large herd of animals standing on top of a hill <end>
+<start> a group of sheep standing on a hill on a hill <end>
+<start> a large herd of animals standing on a hill on a hill <end>
+<start> several sheep standing on a hill on a hill on a sunny day <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8953804969787598
+
+
+Sentences:
+<start> two people are riding a horse drawn carriage <end>
+<start> a man is riding a horse drawn carriage <end>
+<start> two people are riding in a horse drawn carriage <end>
+<start> a couple of people riding a horse drawn carriage <end>
+<start> a couple of people riding on a horse drawn carriage <end>
+<start> a man and a woman riding a horse drawn carriage <end>
+<start> a couple of people riding on a cart riding a horse drawn carriage <end>
+<start> a couple of people riding on a cart a horse and a horse <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.919169545173645
+
+
+Sentences:
+<start> a woman in a pink dress playing tennis <end>
+<start> a woman in a pink dress is playing tennis <end>
+<start> a woman standing on a tennis court holding a racquet <end>
+<start> a woman holding a tennis racquet on a tennis court <end>
+<start> a woman is playing tennis on a blue tennis court <end>
+<start> a woman in a pink dress playing a game of tennis <end>
+<start> a woman standing on a tennis court holding a tennis racquet <end>
+<start> a woman in a pink dress is playing a game of tennis <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9042240977287292
+
+
+Sentences:
+<start> a couple of giraffe standing next to a building <end>
+<start> a couple of giraffes standing next to a building <end>
+<start> a couple of giraffes are standing in a pin <end>
+<start> a couple of giraffe standing next to each other <end>
+<start> a group of giraffes standing in a zoo enclosure <end>
+<start> a group of giraffes standing next to a building <end>
+<start> a couple of giraffes are standing in a zoo <end>
+<start> two giraffe standing next to each other in a zoo <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8806990385055542
+
+
+Sentences:
+<start> a teddy bear is sitting on a chair <end>
+<start> a small teddy bear sitting on a chair <end>
+<start> a brown teddy bear sitting on a chair <end>
+<start> a brown bear sitting on a chair on a chair <end>
+<start> a teddy bear sitting on a chair on a chair <end>
+<start> a brown bear sitting on a chair on a a chair <end>
+<start> a brown teddy bear sitting on a chair on a chair <end>
+<start> a brown bear sitting on a chair on a a a chair <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.96617591381073
+
+
+Sentences:
+<start> a large white wedding cake sitting on a table <end>
+<start> a large white cake sitting on top of a blue table <end>
+<start> a large white cake sitting on top of a blue cake <end>
+<start> a large wedding cake sitting on a table with a a table <end>
+<start> a white wedding cake sitting on a table with a chandelier on a table <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=10), HTML(value='')))
+
+Similarity Score: 0.8897039294242859
+
+
+Sentences:
+<start> two men are holding frisbees and holding frisbees <end>
+<start> two men and a woman holding a frisbee <end>
+<start> a couple of people holding frisbees and holding frisbees <end>
+<start> two men are holding frisbees and holding a frisbee <end>
+<start> a couple of people holding frisbees and a frisbee <end>
+<start> a couple of people holding frisbees and holding a frisbee <end>
+<start> a man and a woman holding a frisbee and a frisbee <end>
+<start> a man and a woman holding a frisbee and holding a frisbee <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9443975687026978
+
+
+Sentences:
+<start> two people standing in a living room playing nintendo wii <end>
+<start> two people playing a video game in a living room <end>
+<start> three people standing in a living room playing a video game <end>
+<start> two men and a woman playing a game with a nintendo wii controller <end>
+<start> two people standing in a living room playing a game with nintendo wii controllers <end>
+<start> three people standing in a living room playing a game with nintendo wii controllers <end>
+<start> two people standing in a living room playing a game with a nintendo wii controller <end>
+<start> three people standing in a living room playing a game with a nintendo wii controller <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9261844754219055
+
+
+Sentences:
+<start> a man standing on a tennis court holding a racquet <end>
+<start> a man holding a tennis racquet on a tennis court <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9830964803695679
+
+
+Sentences:
+<start> a large white train on a steel track <end>
+<start> a small white train on a train track <end>
+<start> a passenger train that is traveling down train tracks <end>
+<start> a passenger train that is traveling down a track <end>
+<start> a small white and blue train on a track <end>
+<start> a small white and blue train on train tracks <end>
+<start> a large white and blue train on a track <end>
+<start> a large white and blue train on a train track <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8110237121582031
+
+
+Sentences:
+<start> a train is traveling down a train track <end>
+<start> a large train traveling down a train track <end>
+<start> a train traveling down a train train track <end>
+<start> a yellow train traveling down a train track <end>
+<start> a train traveling down a train train train tracks <end>
+<start> a train is traveling down a train train track <end>
+<start> a train is traveling down a train train train <end>
+<start> a large train traveling down a train track train <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9524048566818237
+
+
+Sentences:
+<start> a neatly made bed in a small bedroom <end>
+<start> a neatly made bed in a small room <end>
+<start> a bed sitting in a bedroom next to a window <end>
+<start> a bed sitting in a bedroom next a a window <end>
+<start> a bed sitting in a room with a window in a room <end>
+<start> a bed sitting in a bedroom next a a window a window <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=15), HTML(value='')))
+
+Similarity Score: 0.9272170662879944
+
+
+Sentences:
+<start> a bunch of people are standing in a crowd <end>
+<start> a large group of people standing in a crowd of people <end>
+<start> a large crowd of people standing in a crowd of people <end>
+<start> a group of young people sitting in a group a crowd of people <end>
+<start> a large group of people standing in a crowd of a crowd of people <end>
+<start> a group of young people sitting in a group a crowd a group of people <end>
+<start> a group of young people sitting in a group a group of people a group of people <end>
+<start> a group of young people sitting in a group a group of people a group a group of people <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9302829504013062
+
+
+Sentences:
+<start> a group of people riding a wave on surfboards <end>
+<start> a couple of people riding a wave on a surfboard <end>
+<start> a man riding a wave on top of a surfboard <end>
+<start> a group of people riding a wave on a surfboard <end>
+<start> a couple of people riding a wave on top of surfboards <end>
+<start> a couple of people riding surfboards on top of a wave <end>
+<start> a couple of people riding surfboards on a wave in a body of water <end>
+<start> a group of people riding surfboards on a wave in a body of water <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9457073211669922
+
+
+Sentences:
+<start> a bunch of elephants are standing in a field <end>
+<start> a herd of elephants standing on a dirt road <end>
+<start> a bunch of elephants are walking in a line <end>
+<start> a large group of elephants standing in a field <end>
+<start> a bunch of elephants are walking in the dirt <end>
+<start> a bunch of elephants are walking in a row <end>
+<start> a large herd of elephants standing on a dirt road <end>
+<start> a bunch of elephants are walking in the a dirt road <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9095564484596252
+
+
+Sentences:
+<start> many bunches of bananas hanging from a stand <end>
+<start> a fruit stand with bananas hanging from bananas <end>
+<start> a fruit stand with a bunch of ripe bananas <end>
+<start> a fruit stand with a bunch of bananas on a table <end>
+<start> a fruit stand with a bunch of bananas hanging from it <end>
+<start> a fruit stand with a bunch of ripe bananas hanging from it <end>
+<start> a fruit stand with bananas hanging from bananas hanging from a rack <end>
+<start> a fruit stand with a bunch of ripe bananas hanging from a rack <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9668703675270081
+
+
+Sentences:
+<start> a couple of horses are standing in a field <end>
+<start> a herd of horses standing on a dirt field <end>
+<start> a group of horses standing on a dirt field <end>
+<start> a couple of horses are standing in a dirt field <end>
+<start> a herd of horses standing on top of a dirt field <end>
+<start> a couple of horses standing next to a pile of hay <end>
+<start> a couple of horses standing next to each other on a field <end>
+<start> a herd of horses standing next to each other on a field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9297887682914734
+
+
+Sentences:
+<start> a woman is skiing down a snowy hill <end>
+<start> a woman is skiing on a snowy slope <end>
+<start> a woman skiing down a snow covered slope <end>
+<start> a woman riding skis down a snow covered slope <end>
+<start> a woman is skiing on a snow covered slope <end>
+<start> a woman is skiing down a hill on a slope <end>
+<start> a woman on a pair of skis on a slope <end>
+<start> a woman on a pair of skis on a snowy slope <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9674644470214844
+
+
+Sentences:
+<start> a laptop computer sitting on a metal table <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a little girl sitting on a bed in a room <end>
+<start> a woman sitting on a bed on a wooden a bed <end>
+<start> a little girl laying on a bed in a hotel a room <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.8912506103515625
+
+
+Sentences:
+<start> a person is holding a piece of broccoli <end>
+<start> a persons hand holding a piece of broccoli <end>
+<start> a close up of a hand holding a broccoli plant <end>
+<start> a close up of a hand holding a piece of broccoli <end>
+<start> a close up of a hand of a piece of broccoli <end>
+<start> a person holding a piece of broccoli a a piece of broccoli <end>
+<start> a person holding a piece of broccoli a a piece of broccoli a piece of broccoli <end>
+<start> a person holding a piece of broccoli a a piece of broccoli a a piece of broccoli <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9127094149589539
+
+
+Sentences:
+<start> a flock of birds sitting on top of a field <end>
+<start> a flock of birds sitting on a field in a field <end>
+<start> a bunch of boats in a field with a sky in the background <end>
+<start> a flock of birds sitting on top of a field of a field <end>
+<start> a flock of birds sitting on top of a field of a grass field <end>
+<start> a flock of birds sitting on top of a field of a field of a field <end>
+<start> a flock of birds sitting on top of a field of a field of a grass field <end>
+<start> a flock of birds sitting on top of a field of a field of a field of a field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.7604127526283264
+
+
+Sentences:
+<start> a person is standing in the snow on skis <end>
+<start> a person on skis standing on a snowy hill <end>
+<start> a person is standing on a snowy hill on skis <end>
+<start> a man is standing on a snowy hill on skis <end>
+<start> a person on skis standing on a snow covered hill <end>
+<start> a person is standing in a snowy field on skis <end>
+<start> a person is standing on a snowy hill on a snowboard <end>
+<start> a person on skis standing on a snow covered hill on a sunny day <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9678430557250977
+
+
+Sentences:
+<start> a giraffe is standing in a grassy field <end>
+<start> a giraffe standing in a lush green field <end>
+<start> a close up of a giraffe in a grassy field <end>
+<start> a tall giraffe standing next to a group of trees <end>
+<start> a close up of a giraffes a giraffe in the background <end>
+<start> a close up of a giraffe in a field of grass <end>
+<start> a close up of a giraffes a giraffe in a field of grass <end>
+<start> a close up of a giraffes a giraffe in a field of grass and trees <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.913216769695282
+
+
+Sentences:
+<start> a number of kites flying in a field <end>
+<start> a big kite that is flying in the air <end>
+<start> a large group of kites flying in a field <end>
+<start> a large group of people flying kites in a field <end>
+<start> a bunch of kites that are flying in a field <end>
+<start> a number of kites flying in a field in a field <end>
+<start> a bunch of kites flying in a field in a field <end>
+<start> a large group of kites flying in a field in a field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9382779002189636
+
+
+Sentences:
+<start> the cat is drinking water from the faucet <end>
+<start> the cat is drinking water from the water faucet <end>
+<start> a small black cat drinking water from a sink <end>
+<start> a close up of a cat drinking from a sink <end>
+<start> a close up of a cat drinking water from a sink <end>
+<start> a close up of a cat drinking water from a faucet <end>
+<start> a close up of a cat drinking a water from a sink <end>
+<start> a close up of a cat drinking a water from a faucet <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9484135508537292
+
+
+Sentences:
+<start> several people posing for a photo with a surfboard <end>
+<start> several people posing for a picture with a surfboard <end>
+<start> a group of men and a woman holding a surfboard <end>
+<start> several men and a group of people posing for a picture <end>
+<start> several men and a group of people posing for a photo <end>
+<start> a man and a group of people posing for a picture <end>
+<start> a man and a group of people posing for a picture with a surfboard <end>
+<start> a man and a group of people posing a group of people holding a surfboard <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8814419507980347
+
+
+Sentences:
+<start> a small cat is looking at a computer screen <end>
+<start> a gray cat is looking at a computer screen <end>
+<start> a black cat is sitting on a computer keyboard <end>
+<start> a cat sitting on a desk looking at a computer <end>
+<start> a small cat is sitting on a desk looking at a computer <end>
+<start> a small cat is sitting on a desk looking at a computer screen <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=15), HTML(value='')))
+
+Similarity Score: 0.9131799340248108
+
+
+Sentences:
+<start> a man kneeling down next to a motorcycle <end>
+<start> a man sitting on the ground next to a motorcycle <end>
+<start> a man is working on a motorcycle on a street <end>
+<start> a man kneeling down on a bike on a motorcycle <end>
+<start> a man sitting on a motorcycle a man on a motorcycle <end>
+<start> a man sitting on a motorcycle a man on a motorcycle a man on a motorcycle <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=15), HTML(value='')))
+
+Similarity Score: 0.9416334629058838
+
+
+Sentences:
+<start> a small dog is standing on a bench <end>
+<start> a brown dog standing on a wooden bench <end>
+<start> a small brown dog standing on a wooden bench <end>
+<start> a large brown dog standing on a wooden bench <end>
+<start> a small brown and brown dog standing on a bench <end>
+<start> a small brown and white dog standing on a bench <end>
+<start> a large brown dog standing on top of a wooden bench <end>
+<start> a brown and white dog standing on a bench a a tree and a building <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.921536922454834
+
+
+Sentences:
+<start> a large sign that is on a pole <end>
+<start> a red sign that is on a pole <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.8967335820198059
+
+
+Sentences:
+<start> a woman holding a doughnut up to a face <end>
+<start> a close up of a person eating a hot dog <end>
+<start> a woman holding a doughnut up a a a a a smile <end>
+<start> a woman holding a doughnut up a a a a a a a smile <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=6), HTML(value='')))
+
+Similarity Score: 0.6064993739128113
+
+
+Sentences:
+<start> a person on skis jumping in the air <end>
+<start> a snow skier is in mid air in the air <end>
+<start> a snow skier is in mid air in the snow <end>
+<start> a person is in the air on skis in the snow <end>
+<start> a skier in mid air in the snow in the air <end>
+<start> a snow skier is in mid air in the snow in the air <end>
+<start> a person is in the air on a pair of skis in the snow <end>
+<start> a person is in the air on a pair of skis in the air <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9321640729904175
+
+
+Sentences:
+<start> a couple of people standing in a room <end>
+<start> a couple of people standing next to each other <end>
+<start> a man and a woman standing next to each other <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.8206419348716736
+
+
+Sentences:
+<start> a close up of a bowl of rice and broccoli <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a machine with a lot of doughnuts on it <end>
+<start> a conveyor belt filled with donuts on a conveyor belt <end>
+<start> a large machine with a lot of donuts on it <end>
+<start> a conveyor belt with a lot of donuts on it <end>
+<start> a conveyor belt with lots of donuts on a conveyor belt <end>
+<start> a conveyor belt with a lot of donuts on a conveyor belt <end>
+<start> a large machine with a lot of donuts on a conveyor belt <end>
+<start> a conveyor belt with a lot of donuts on it a a machine <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8529744148254395
+
+
+Sentences:
+<start> a red stop sign on a pole on the side of the road <end>
+<start> a red stop sign on a pole on the side of a road <end>
+<start> a close up of a stop sign on the side of a road <end>
+<start> a red stop sign on the side of a road on the road <end>
+<start> a red stop sign on the side of the road on the road <end>
+<start> a red stop sign on the side of a road on the side of the road <end>
+<start> a red stop sign on the side of the road on a street on the street <end>
+<start> a red stop sign on the side of a road on the side of the street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9465169310569763
+
+
+Sentences:
+<start> a person riding skis on a snowy slope <end>
+<start> a person riding skis down a snowy slope <end>
+<start> a man riding skis down a snow covered slope <end>
+<start> a person riding skis down a snow covered slope <end>
+<start> a person riding skis down a snow covered hill <end>
+<start> a young man riding skis down a snow covered slope <end>
+<start> a person riding a pair of skis down a snow covered slope <end>
+<start> a young man riding a pair of skis down a snow covered slope <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9753705859184265
+
+
+Sentences:
+<start> a couple of street signs on a pole <end>
+<start> a pole with a bunch of street signs on it <end>
+<start> a pole with a bunch of street signs on a pole <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.9707477688789368
+
+
+Sentences:
+<start> a bunch of sheep standing in a field <end>
+<start> a couple of sheep standing next to a building <end>
+<start> a group of sheep standing next to a building <end>
+<start> a couple of sheep standing next to each other <end>
+<start> a group of sheep standing next to each other <end>
+<start> several sheep standing in a field next to a building <end>
+<start> a herd of sheep standing on a lush green field <end>
+<start> a couple of sheep standing next to each other on a field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.918519914150238
+
+
+Sentences:
+<start> a couple of women sitting on a boat on a lake <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a dog with a frisbee on a beach <end>
+<start> a dog with a yellow frisbee on a beach <end>
+<start> a dog standing on top of a sandy beach <end>
+<start> a shaggy dog is walking a dog on the beach <end>
+<start> a shaggy dog is walking a dog on a beach <end>
+<start> a dog is walking on a beach with a frisbee <end>
+<start> a shaggy dog is walking a beach with a yellow frisbee <end>
+<start> a dog standing on top of a beach with a frisbee <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8568659424781799
+
+
+Sentences:
+<start> a large jetliner flying over a bridge flying a plane <end>
+<start> a formation of planes flying over a bridge over water <end>
+<start> a large jetliner flying over a bridge flying over a bridge <end>
+<start> an airplane flying over a bridge over a body of water <end>
+<start> a large airplane flying over a bridge over a body of water <end>
+<start> a couple of planes flying in a cloudy sky over a bridge <end>
+<start> a formation of planes flying over a bridge over a body of water <end>
+<start> a couple of planes flying in a cloudy sky a a cloudy sky <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8339341878890991
+
+
+Sentences:
+<start> a couple of teddy bears sitting on a bed <end>
+<start> a pile of stuffed animals sitting on a bed <end>
+<start> a pile of teddy bears sitting on a bed <end>
+<start> a group of stuffed animals sitting on a bed <end>
+<start> a group of teddy bears sitting on a bed <end>
+<start> a group of stuffed animals sitting on top of a bed <end>
+<start> a small teddy bear with a hat on sitting on a bed <end>
+<start> a small teddy bear with a hat on sitting on a bed with a cat on a bed <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8703058958053589
+
+
+Sentences:
+<start> a person on a horse jumping over a fence <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> three people standing on skis in the snow <end>
+<start> three people standing on skis on a snowy slope <end>
+<start> three people standing on skis in a snowy area <end>
+<start> a group of three skiers on a snow covered slope <end>
+<start> a group of three people on skis standing in the snow <end>
+<start> a group of three people on skis on a snowy slope <end>
+<start> a group of three people on skis standing in a snowy field <end>
+<start> a group of three people on skis standing on a snow covered slope <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9816887974739075
+
+
+Sentences:
+<start> a couple of zebras are grazing in a field <end>
+<start> a herd of zebras grazing in a grassy field <end>
+<start> a couple of zebras that are eating some grass <end>
+<start> a herd of zebra grazing on a lush green field <end>
+<start> a couple of zebras that are eating a grass field <end>
+<start> a group of zebras grazing in a field of grass <end>
+<start> a herd of zebras grazing in a field of grass <end>
+<start> a herd of zebras grazing in a field of a field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9520817995071411
+
+
+Sentences:
+<start> a woman walks a horse in a barn <end>
+<start> a young girl leading a horse in a barn <end>
+<start> a woman leading a brown horse in a barn <end>
+<start> a woman standing next to a horse in a barn <end>
+<start> a young woman leading a brown horse in a barn <end>
+<start> a young girl leading a brown horse in a barn <end>
+<start> a woman standing next to a brown horse in a barn <end>
+<start> a woman standing next to a brown horse in a stable <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9520021080970764
+
+
+Sentences:
+<start> a very tall building with a lot of signs on it <end>
+<start> a black and white photo of a street with street signs <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.37104371190071106
+
+
+Sentences:
+<start> a colorful kite flying in a cloudy sky <end>
+<start> a red and blue kite flying in the sky <end>
+<start> a red and blue kite flying in a cloudy sky <end>
+<start> a large kite flying in the sky in a park <end>
+<start> a colorful kite flying in the sky in a park <end>
+<start> a colorful kite flying in the sky in a park in a city <end>
+<start> a red kite flying in the sky in a park in a city <end>
+<start> a red kite flying in the sky in a park in a park <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9153391718864441
+
+
+Sentences:
+<start> a group of people riding motorcycles down a street <end>
+<start> a bunch of people on motorcycles on a road <end>
+<start> a bunch of people on motorcycles on a street <end>
+<start> a group of people on motorcycles on a road <end>
+<start> a bunch of people are riding a motorcycles on the street <end>
+<start> a bunch of people are riding on motorcycles on a street <end>
+<start> a bunch of people are riding a motorcycles on a street <end>
+<start> a bunch of people are riding on a motorcycles on a road <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9709424376487732
+
+
+Sentences:
+<start> a large long train on a steel track <end>
+<start> a large train is traveling down train tracks <end>
+<start> a white train traveling down a train track <end>
+<start> a passenger train traveling down a train track <end>
+<start> a large train is traveling down a track <end>
+<start> a large long train on a steel train track <end>
+<start> a large train is traveling down a train track <end>
+<start> a white train traveling down train tracks next to a bridge <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8460649251937866
+
+
+Sentences:
+<start> a table full of different kinds of vegetables <end>
+<start> a table full of different vegetables of vegetables <end>
+<start> a table full of different vegetables with vegetables <end>
+<start> a pile of carrots and a pile of vegetables <end>
+<start> a pile of carrots and a pile of carrots <end>
+<start> a table with a lot of vegetables of vegetables <end>
+<start> a table with a lot of vegetables of different vegetables <end>
+<start> a table with a lot of vegetables of vegetables and a vegetable stand <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8361592888832092
+
+
+Sentences:
+<start> a airplane flying in a clear blue sky <end>
+<start> a large commercial airplane flying in a clear sky <end>
+<start> a jumbo jet plane flying in a clear sky <end>
+<start> a plane is flying in a clear blue sky <end>
+<start> a jumbo jet plane flying in a clear blue sky <end>
+<start> a airplane flying in a blue sky in a blue sky <end>
+<start> a airplane flying in a blue sky in a clear sky <end>
+<start> a airplane flying in a blue sky in a clear blue sky <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9411720633506775
+
+
+Sentences:
+<start> a skateboarder is doing a trick on a ramp <end>
+<start> a man is doing a skateboard trick on a ramp <end>
+<start> a man is doing a skateboard trick on a half a ramp <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.9718227386474609
+
+
+Sentences:
+<start> a woman is holding a pink a cell phone <end>
+<start> a woman in a dress a holding a cell phone <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9239722490310669
+
+
+Sentences:
+<start> a man in a blue shirt is playing tennis <end>
+<start> a man is playing tennis on a tennis court <end>
+<start> a man swinging a tennis racquet on a tennis court <end>
+<start> a man in a blue shirt is playing a game of tennis <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=6), HTML(value='')))
+
+Similarity Score: 0.8467171788215637
+
+
+Sentences:
+<start> a group of men playing a game of baseball <end>
+<start> a group of men playing baseball on a field <end>
+<start> two men in baseball uniforms playing a game of baseball <end>
+<start> two men in a baseball game playing a baseball game <end>
+<start> two men in a baseball game playing a game of baseball <end>
+<start> two men in baseball uniforms playing a game of a baseball game <end>
+<start> two men in a baseball game playing a game of a game <end>
+<start> two men in a baseball game playing a game of a baseball game <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9614301919937134
+
+
+Sentences:
+<start> a pizza is sitting on a table on a table <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a couple of horses are walking down the road <end>
+<start> a horse is pulling a car down the street <end>
+<start> a horse is pulling a car down a street <end>
+<start> a horse is pulling a car down the road <end>
+<start> a horse is pulling a car down a road <end>
+<start> a horse is pulling a car in a parking lot <end>
+<start> a horse is pulling a car down a road a car and a car <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=21), HTML(value='')))
+
+Similarity Score: 0.9215679168701172
+
+
+Sentences:
+<start> a double parking meter on a city sidewalk <end>
+<start> a double parking meter on a city street <end>
+<start> a parking meter on a sidewalk on the sidewalk <end>
+<start> a parking meter on a sidewalk on a sidewalk <end>
+<start> a parking meter on a sidewalk on a city sidewalk <end>
+<start> a red parking meter on a sidewalk on a sidewalk <end>
+<start> a red parking meter on a sidewalk on a city street <end>
+<start> a red parking meter on a sidewalk on a city sidewalk <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9046174883842468
+
+
+Sentences:
+<start> a couple of people sitting on a bench under an umbrella <end>
+<start> a group of people sitting on a bench under an umbrella <end>
+<start> a couple of men sitting on a bench under a white umbrella <end>
+<start> a couple of people sitting on a bench under an a umbrella <end>
+<start> a couple of men sitting on a bench a a bench and an umbrella <end>
+<start> a couple of men sitting on a bench a a bench and a umbrella <end>
+<start> a couple of men sitting on a bench a a man and a woman a bench and a man is holding a umbrella <end>
+<start> a couple of men sitting on a bench a a man and a woman a bench and a man is holding an umbrella <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.980112612247467
+
+
+Sentences:
+<start> two giraffes are standing in a dirt field <end>
+<start> a couple of giraffes are standing in a field <end>
+<start> a couple of giraffes are standing in a pin <end>
+<start> a group of giraffe standing in a dirt field <end>
+<start> a couple of giraffes are standing in a dirt field <end>
+<start> two giraffes standing in a dirt field in a zoo <end>
+<start> a herd of giraffe standing on top of a dirt field <end>
+<start> two giraffes standing in a dirt field in front of a tree <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8949717283248901
+
+
+Sentences:
+<start> a table with a variety of vegetables and vegetables <end>
+<start> a table with a lot of vegetables and vegetables <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.975688636302948
+
+
+Sentences:
+<start> a large fire hydrant on a city street <end>
+<start> a large group of fire hydrants on a sidewalk <end>
+<start> a group of fire hydrants sitting on a sidewalk <end>
+<start> a row of fire hydrants sitting on a sidewalk <end>
+<start> a large group of fire hydrants on a city sidewalk <end>
+<start> a number of a fire hydrant on a city street <end>
+<start> a large fire hydrant on a sidewalk on a city street <end>
+<start> a couple of fire hydrants sitting on the side of a street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9472612142562866
+
+
+Sentences:
+<start> a man is riding on a green truck <end>
+<start> a man is riding on the back of a green truck <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9763755798339844
+
+
+Sentences:
+<start> a woman is riding a wave on a surfboard <end>
+<start> a couple of people on a surfboard riding a wave <end>
+<start> a group of women riding a wave on a surfboard <end>
+<start> a group of women riding a wave on surfboards a wave <end>
+<start> a couple of people on a surfboard riding on a wave <end>
+<start> a woman is riding a surfboard on a wave on a beach <end>
+<start> a group of women riding a wave on surfboards a a wave <end>
+<start> a woman is riding a surfboard on a wave a a a woman <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.929866373538971
+
+
+Sentences:
+<start> a vintage photo of a steam engine train <end>
+<start> an old steam engine train traveling down train tracks <end>
+<start> a black and white photo of a steam train <end>
+<start> an old steam engine train traveling down a track <end>
+<start> a black and white photo of a steam engine <end>
+<start> an old steam engine train traveling down a train track <end>
+<start> a black and white photo of a steam engine train <end>
+<start> a train traveling down train tracks next to a train station <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.7718394994735718
+
+
+Sentences:
+<start> a man is riding a wave on a surfboard <end>
+<start> a person on a surfboard riding a wave a wave <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9411942958831787
+
+
+Sentences:
+<start> a group of young children holding a frisbee <end>
+<start> a group of young boys holding a frisbee <end>
+<start> a man and a young boy holding a frisbee <end>
+<start> a group of kids sitting on the grass holding a frisbee <end>
+<start> a group of kids sitting on a grass field holding a frisbee <end>
+<start> a group of young boys sitting on a field holding a frisbee <end>
+<start> a group of young boys sitting on a grass field holding a frisbee <end>
+<start> a group of kids sitting on a grass field a a a man and a woman <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.919831395149231
+
+
+Sentences:
+<start> a dog jumps a dog catching a frisbee <end>
+<start> a dog jumping up to catch a frisbee <end>
+<start> a dog catching a red frisbee in a park <end>
+<start> a black dog catching a red frisbee in a park <end>
+<start> a large black dog catching a frisbee in a park <end>
+<start> a large black dog catching a frisbee in a backyard <end>
+<start> a large black dog catching a frisbee in a yard <end>
+<start> a large black dog catching a red frisbee in a park <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9127325415611267
+
+
+Sentences:
+<start> a girl and a baby are petting a sheep <end>
+<start> a girl and a baby are petting a lamb <end>
+<start> two young girls petting two two sheep in a field <end>
+<start> two young girls petting a sheep and two a sheep <end>
+<start> a couple of women and a baby sheep in a field <end>
+<start> two young girls petting two two sheep in a fenced in area <end>
+<start> a couple of women and a baby sheep in a fenced area <end>
+<start> a couple of women and a baby sheep in a fenced in area <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8305363059043884
+
+
+Sentences:
+<start> a group of people standing around a living room <end>
+<start> a bunch of people a man holding a wine glass <end>
+<start> a bunch of people a man holding a bottle of wine <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.807987630367279
+
+
+Sentences:
+<start> a couple of parking meters in front of a building <end>
+<start> a couple of parking meters sitting in front of a building <end>
+<start> a parking meter sitting next to a parking lot in a city <end>
+<start> a close up of a parking meter with parking meters in the background <end>
+<start> a close up of a parking meter with parking meters in a background <end>
+<start> a parking meter sitting next to a parking lot in front a building <end>
+<start> a parking meter sitting next to a parking lot in front of a building <end>
+<start> a parking meter sitting next to a parking lot in front a building a lit up <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9025934338569641
+
+
+Sentences:
+<start> a person riding a skateboard on a ramp <end>
+<start> a man is riding a skateboard on a ramp <end>
+<start> a person on a skateboard riding on a ramp <end>
+<start> a man on a skateboard riding on a ramp <end>
+<start> a person on a skateboard riding a ramp on a ramp <end>
+<start> a man on a skateboard riding a ramp on a ramp <end>
+<start> a man on a skateboard riding a ramp a a a ramp <end>
+<start> a man on a skateboard riding a ramp a a a a ramp <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9815154671669006
+
+
+Sentences:
+<start> a beautiful young lady holding a tennis racquet <end>
+<start> a woman standing in front of a white horse <end>
+<start> a beautiful young lady holding a white tennis racquet <end>
+<start> a woman standing in front a a horse in a field <end>
+<start> a beautiful young lady holding a tennis racquet a tennis racquet <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=10), HTML(value='')))
+
+Similarity Score: 0.5257726311683655
+
+
+Sentences:
+<start> a couple of elephants walking in a building <end>
+<start> a herd of elephants standing in a building <end>
+<start> a group of elephants standing in a building <end>
+<start> a large herd of elephants walking in a building <end>
+<start> a large herd of elephants standing in a building <end>
+<start> a large group of elephants walking in a building <end>
+<start> a large group of elephants standing in a building <end>
+<start> a bunch of animals that are standing in a building <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9432123303413391
+
+
+Sentences:
+<start> a person is flying a colorful a kite <end>
+<start> a person is holding a colorful a kite <end>
+<start> a person is flying a colorful kite in a park <end>
+<start> a person is flying a colorful kite in a field <end>
+<start> a person is holding a colorful kite in a field <end>
+<start> a person is holding a colorful kite in a park <end>
+<start> a person is flying a colorful kite on a field <end>
+<start> a person is flying a colorful kite on a grassy field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9682243466377258
+
+
+Sentences:
+<start> a long train traveling down a train track <end>
+<start> a large long train on a train track <end>
+<start> a small train is traveling down train tracks <end>
+<start> a train is traveling down a train track <end>
+<start> a passenger train traveling down a train track <end>
+<start> a small train is traveling down a train track <end>
+<start> a passenger train traveling down train tracks a train track <end>
+<start> a passenger train traveling down train tracks a a train track <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9329392313957214
+
+
+Sentences:
+<start> a large bird is looking out a window <end>
+<start> a small bird is looking out of a window <end>
+<start> a bird sitting on a window sill a a window <end>
+<start> a bird sitting on a window sill looking out a window <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=6), HTML(value='')))
+
+Similarity Score: 0.9212082028388977
+
+
+Sentences:
+<start> a young boy swinging a baseball bat at a ball <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a man standing next to a large elephant <end>
+<start> a man looking at the a a elephant <end>
+<start> a smiling man is a a a a elephant <end>
+<start> a man looking at a large elephant in a field <end>
+<start> a man looking at the a elephant a a elephant <end>
+<start> a man looking at the a elephant a a a a elephant <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=15), HTML(value='')))
+
+Similarity Score: 0.9234632253646851
+
+
+Sentences:
+<start> a couple of bananas a bunch of bananas <end>
+<start> a bunch of ripe bananas sitting on a table <end>
+<start> a pile of ripe bananas sitting next to each other <end>
+<start> a bunch of ripe bananas sitting on a purple table <end>
+<start> a bunch of ripe bananas sitting on a blue table <end>
+<start> a close up of a bunch of bananas on a table <end>
+<start> a close up of a bunch of bananas on a blue surface <end>
+<start> a close up of a bunch of bananas on a purple surface <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9228503108024597
+
+
+Sentences:
+<start> a train is traveling down the train tracks <end>
+<start> a train is traveling down a train track <end>
+<start> a train is traveling down the train track <end>
+<start> a red train traveling down a train track <end>
+<start> a red train traveling down train tracks near a field <end>
+<start> a red train traveling down train tracks near a grassy field <end>
+<start> a red train traveling down train tracks next to a field <end>
+<start> a train traveling down a train track next to a field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9143900871276855
+
+
+Sentences:
+<start> two brown horses standing next to a brown horse <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a parking meter sitting on a side walk <end>
+<start> a parking meter on the side of a road <end>
+<start> a couple of parking meters sitting on a side walk <end>
+<start> a close up of a parking meter on a sidewalk <end>
+<start> a parking meter sitting on the side of a road <end>
+<start> a black parking meter sitting on the side of a road <end>
+<start> a couple of parking meters sitting on the side of a road <end>
+<start> a close up of a parking meter on the side of a road <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9084658026695251
+
+
+Sentences:
+<start> a dog that is walking a dirt road <end>
+<start> a dog is walking down a dirt road <end>
+<start> a small dog is walking down a dirt road <end>
+<start> a dog that is standing on a dirt road <end>
+<start> a dog that is walking a a a dirt road <end>
+<start> a black and white dog walking down a dirt road <end>
+<start> a dog that is walking a a a a lot of dirt <end>
+<start> a dog that is walking a a a a lot of a tree <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8820122480392456
+
+
+Sentences:
+<start> a couple of birds are on a ledge <end>
+<start> a couple of birds are sitting on a ledge <end>
+<start> a couple of birds sitting on a wooden ledge <end>
+<start> a bird sitting on a ledge on a sidewalk <end>
+<start> a couple of birds are on a ledge of a building <end>
+<start> a couple of birds sitting on top of a wooden bench <end>
+<start> a flock of birds sitting on top of a wooden bench <end>
+<start> a couple of birds are on a ledge on a bench <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9070631861686707
+
+
+Sentences:
+<start> a male skateboarder is riding a skateboard a a ramp <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a large air plane on a run way <end>
+<start> a large jetliner flying over an airport a lot of people <end>
+<start> a large air plane on a runway with an air plane <end>
+<start> a large jetliner flying over an airport with a lot of people <end>
+<start> a large air plane on a runway with a city in the background <end>
+<start> a large air plane on a runway with a city in a background <end>
+<start> a large air plane on a runway with a lot of a city <end>
+<start> a large jetliner flying over an airport with a lot of people a a lot of people <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8971161842346191
+
+
+Sentences:
+<start> a bunch of people are sitting around a table <end>
+<start> a large group of people sitting at a table <end>
+<start> a group of women are sitting at a table <end>
+<start> several people are sitting around a table with plates of food <end>
+<start> there are many people sitting at a table at a restaurant <end>
+<start> a large group of people sitting at a table with plates of food <end>
+<start> a large group of people sitting at a table with a table of food <end>
+<start> a large group of people sitting at a table with a lot of food <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.900420606136322
+
+
+Sentences:
+<start> a big room filled with a lot of people <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=1, bar_style='info', max=1), HTML(value='')))
+
+Similarity Score: nan
+
+
+Sentences:
+<start> a person on a skateboard on a ramp <end>
+<start> a man is riding a skateboard on a ramp <end>
+<start> a person riding a skateboard a a skateboard ramp <end>
+<start> a young man riding a skateboard on a cement ramp <end>
+<start> a person riding a skateboard a a a a ramp <end>
+<start> a person riding a skateboard a a skateboard a ramp a ramp <end>
+<start> a person riding a skateboard a a skateboard a ramp a ramp a a a a ramp <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=21), HTML(value='')))
+
+Similarity Score: 0.9664739966392517
+
+
+Sentences:
+<start> a large cow standing on a sandy beach <end>
+<start> a cow is standing on a sandy beach <end>
+<start> a cow that is standing on a beach <end>
+<start> a black cow standing on a sandy beach <end>
+<start> a large cow is standing on a beach <end>
+<start> a large cow is standing on a sandy beach <end>
+<start> a cow that is standing in a sandy beach <end>
+<start> a black and white cow standing on a sandy beach <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9654189944267273
+
+
+Sentences:
+<start> two people sitting on a couch playing a video game <end>
+<start> two men sitting on a couch playing a video game <end>
+<start> a woman and a man sitting on a couch playing a video game <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=3), HTML(value='')))
+
+Similarity Score: 0.9626829028129578
+
+
+Sentences:
+<start> a man on a surfboard riding a wave <end>
+<start> a man is riding a wave on a surfboard <end>
+<start> a man riding a wave on top of a surfboard <end>
+<start> a male surfer is riding a wave on a surfboard <end>
+<start> a male surfer in a wet suit riding a wave <end>
+<start> a person on a surfboard in a body of a wave <end>
+<start> a person on a surfboard in a body of a a wave <end>
+<start> a person on a surfboard in a body of a body of water <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8883785605430603
+
+
+Sentences:
+<start> a vintage photo of a large group of people <end>
+<start> a crowd of people standing next to each other <end>
+<start> a crowd of people standing next to a building <end>
+<start> a black and white photo of a group of people <end>
+<start> a black and white photo of a large group of people <end>
+<start> a big group of men and a group of men and women <end>
+<start> a big group of men and a group of men and a group of men <end>
+<start> a big group of men and a group of men and women and a group of men <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.7177795767784119
+
+
+Sentences:
+<start> two people on skis standing in the snow <end>
+<start> three people are standing on skis in the snow <end>
+<start> three people are standing in the snow on skis <end>
+<start> three people are standing on skis on the snow <end>
+<start> three people are standing on skis standing on the snow <end>
+<start> three people are standing on skis standing in the snow <end>
+<start> three people are standing on skis standing on a snowy hill <end>
+<start> three people are standing on skis standing on a snow covered slope <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9793037176132202
+
+
+Sentences:
+<start> a bus that is sitting on a street <end>
+<start> a city bus is parked on a city street <end>
+<start> a bus parked on the side of a street <end>
+<start> a bus that is sitting on the side of the road <end>
+<start> a big bus is parked on the side of the road <end>
+<start> a city bus is parked on the side of the road <end>
+<start> a city bus is parked on the side of the street <end>
+<start> a city bus is parked on the side of a street <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9340291619300842
+
+
+Sentences:
+<start> a bunch of zebras are standing in a field <end>
+<start> a herd of zebra standing on a lush green field <end>
+<start> there are a herd of zebra standing in a field <end>
+<start> a large group of zebras are standing in a field <end>
+<start> a herd of zebra standing on top of a grass field <end>
+<start> a bunch of zebras are standing in a field of grass <end>
+<start> a number of animals in a field near a body of water <end>
+<start> a bunch of zebras are standing in a field of a field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.8888331055641174
+
+
+Sentences:
+<start> a couple of elephants walking in a field <end>
+<start> two adult elephants and two baby elephants in a field <end>
+<start> two adult elephants and two elephants walking in a field <end>
+<start> two adult elephants and a baby elephant in a field <end>
+<start> two adult elephants and a baby elephant in a grassy field <end>
+<start> two adult elephants and two baby elephants walking in a field <end>
+<start> two adult elephants and two baby elephants walking through a field <end>
+<start> two adult elephants and a baby elephant walking through a grassy field <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9458266496658325
+
+
+Sentences:
+<start> a long train is traveling down train tracks <end>
+<start> a large long train on a train track <end>
+<start> a train is traveling down a train track <end>
+<start> an orange train traveling down a train track <end>
+<start> a long train is traveling down a track <end>
+<start> a large long train on a train train track <end>
+<start> a long train is traveling down train train tracks <end>
+<start> a long train is traveling down a train track <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.92619389295578
+
+
+Sentences:
+<start> a large air plane on a run way <end>
+<start> a large commercial airplane sitting on the runway <end>
+<start> a large commercial airplane sitting on a runway <end>
+<start> a large commercial airplane parked on a runway <end>
+<start> a large jetliner sitting on top of a runway <end>
+<start> a large jetliner sitting on top of an airport runway <end>
+<start> a large passenger jet sitting on top of a runway <end>
+<start> a large passenger jet sitting on top of an airport runway <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9150969386100769
+
+
+Sentences:
+<start> a person is skiing down a snowy hill <end>
+<start> a man riding skis on a snowy slope <end>
+<start> a man riding skis on a snowy surface <end>
+<start> a man riding skis on a snow covered slope <end>
+<start> a man riding skis down a snow covered slope <end>
+<start> a person is skiing down a hill on snow <end>
+<start> a person is skiing down a hill on a hill <end>
+<start> a man riding skis on top of a snow covered slope <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=28), HTML(value='')))
+
+Similarity Score: 0.9400221109390259
+
+
+Sentences:
+<start> a small bowl of a bowl of oranges <end>
+<start> a small bowl of a bowl filled with oranges <end>
+
+<class 'pytorch_pretrained_bert.modeling.BertForNextSentencePrediction'>
+HBox(children=(IntProgress(value=0, max=1), HTML(value='')))
+
+Similarity Score: 0.9819397330284119
+
+
